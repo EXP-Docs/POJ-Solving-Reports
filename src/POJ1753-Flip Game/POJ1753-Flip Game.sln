@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "POJ1753-Flip Game", "POJ1753-Flip Game\POJ1753-Flip Game.vcxproj", "{FD15B5E1-53E5-4A9D-9620-0AD676C1E264}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD15B5E1-53E5-4A9D-9620-0AD676C1E264}.Debug|Win32.ActiveCfg = Debug|Win32
+		{FD15B5E1-53E5-4A9D-9620-0AD676C1E264}.Debug|Win32.Build.0 = Debug|Win32
+		{FD15B5E1-53E5-4A9D-9620-0AD676C1E264}.Release|Win32.ActiveCfg = Release|Win32
+		{FD15B5E1-53E5-4A9D-9620-0AD676C1E264}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

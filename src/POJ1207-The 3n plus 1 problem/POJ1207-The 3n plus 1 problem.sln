@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "POJ1207-The 3n plus 1 problem", "POJ1207-The 3n plus 1 problem\POJ1207-The 3n plus 1 problem.vcxproj", "{DCB2D48F-01EE-4857-A1FB-7E53F7CA5A6F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DCB2D48F-01EE-4857-A1FB-7E53F7CA5A6F}.Debug|Win32.ActiveCfg = Debug|Win32
+		{DCB2D48F-01EE-4857-A1FB-7E53F7CA5A6F}.Debug|Win32.Build.0 = Debug|Win32
+		{DCB2D48F-01EE-4857-A1FB-7E53F7CA5A6F}.Release|Win32.ActiveCfg = Release|Win32
+		{DCB2D48F-01EE-4857-A1FB-7E53F7CA5A6F}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

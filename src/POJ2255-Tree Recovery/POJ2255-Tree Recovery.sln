@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "POJ2255-Tree Recovery", "POJ2255-Tree Recovery\POJ2255-Tree Recovery.vcxproj", "{A9576268-DCE0-4C1C-85D5-0A021B13FD47}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A9576268-DCE0-4C1C-85D5-0A021B13FD47}.Debug|Win32.ActiveCfg = Debug|Win32
+		{A9576268-DCE0-4C1C-85D5-0A021B13FD47}.Debug|Win32.Build.0 = Debug|Win32
+		{A9576268-DCE0-4C1C-85D5-0A021B13FD47}.Release|Win32.ActiveCfg = Release|Win32
+		{A9576268-DCE0-4C1C-85D5-0A021B13FD47}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
