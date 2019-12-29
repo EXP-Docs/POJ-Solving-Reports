@@ -1,4 +1,4 @@
-# [[POJ](http://poj.org/)] [[INDEX](https://github.com/lyy289065406/POJ-Solving-Reports)] [1753] [[Flip Game](http://poj.org/problem?id=1753)]
+## [[POJ](http://poj.org/)] [[INDEX](https://github.com/lyy289065406/POJ-Solving-Reports)] [1753] [[Flip Game](http://poj.org/problem?id=1753)]
 
 > [Time: 1000MS] [Memory: 65536K] [难度: 初级] [分类: 枚举]
 

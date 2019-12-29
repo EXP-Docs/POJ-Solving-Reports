@@ -1,4 +1,4 @@
-# [[POJ](http://poj.org/)] [[INDEX](https://github.com/lyy289065406/POJ-Solving-Reports)] [2109] [[Power of Cryptography](http://poj.org/problem?id=2109)]
+## [[POJ](http://poj.org/)] [[INDEX](https://github.com/lyy289065406/POJ-Solving-Reports)] [2109] [[Power of Cryptography](http://poj.org/problem?id=2109)]
 
 > [Time: 1000MS] [Memory: 30000K] [难度: 初级] [分类: 高精度算法]
 

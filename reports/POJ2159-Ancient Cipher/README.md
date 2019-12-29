@@ -1,4 +1,4 @@
-# [[POJ](http://poj.org/)] [[INDEX](https://github.com/lyy289065406/POJ-Solving-Reports)] [2159] [[Ancient Cipher](http://poj.org/problem?id=2159)]
+## [[POJ](http://poj.org/)] [[INDEX](https://github.com/lyy289065406/POJ-Solving-Reports)] [2159] [[Ancient Cipher](http://poj.org/problem?id=2159)]
 
 > [Time: 1000MS] [Memory: 65536K] [难度: 水题] [分类: 无]
 

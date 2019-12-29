@@ -1,4 +1,4 @@
-# [[POJ](http://poj.org/)] [[INDEX](https://github.com/lyy289065406/POJ-Solving-Reports)] [2262] [[Goldbach's Conjecture](http://poj.org/problem?id=2262)]
+## [[POJ](http://poj.org/)] [[INDEX](https://github.com/lyy289065406/POJ-Solving-Reports)] [2262] [[Goldbach's Conjecture](http://poj.org/problem?id=2262)]
 
 > [Time: 1000MS] [Memory: 65536K] [难度: 初级] [分类: 素数]
 

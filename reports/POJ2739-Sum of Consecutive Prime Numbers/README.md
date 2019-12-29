@@ -1,4 +1,4 @@
-# [[POJ](http://poj.org/)] [[INDEX](https://github.com/lyy289065406/POJ-Solving-Reports)] [2739] [[Sum of Consecutive Prime Numbers](http://poj.org/problem?id=2739)]
+## [[POJ](http://poj.org/)] [[INDEX](https://github.com/lyy289065406/POJ-Solving-Reports)] [2739] [[Sum of Consecutive Prime Numbers](http://poj.org/problem?id=2739)]
 
 > [Time: 1000MS] [Memory: 65536K] [难度: 初级] [分类: 素数]
 
