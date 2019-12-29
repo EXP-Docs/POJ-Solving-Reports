@@ -16,8 +16,8 @@
 ## 测试数据
 
 - [Tehran 2002, First Iran Nationwide Internet Programming Contest（问题C）](http://sina.sharif.edu/~acmicpc/acmicpc02/inipc/inipcprobs.html)（已失效）
-- [input](/reports/POJ1018-Communication%20System/testdata/input)
-- [output](/reports/POJ1018-Communication%20System/testdata/output)
+- [input](/reports/POJ1018-Communication%20System/testdata/input.dat)
+- [output](/reports/POJ1018-Communication%20System/testdata/output.dat)
 
 
 ## AC 源码
@@ -305,7 +305,7 @@ void CSystem::print() {
 - （3）枚举 B 值过程中，对于每个 B 值，在选择其他设备时要记录选取不同种类的设备个数 count 。最后当 `count<n` 时，说明B值位置往后剩余的设备中已无法提供 n-1 种不同设备，可直接跳出枚举。
 
 
-剪枝2比较难懂，再稍微解释一下，以题目给定的数据为例： 
+关于剪枝（2）比较难懂，再稍微解释一下，以题目给定的数据为例： 
 
 ```
 1 3 
