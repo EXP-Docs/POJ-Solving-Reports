@@ -12,7 +12,7 @@
 
 | <font color="red">可用于练手与增强自信</font> |
 | :------: |
-| [POJ-1000](/tree/master/reports/POJ1000-a%20plus%20b)  [POJ-1003](http://exp-blog.com/2018/06/12/pid-88/)  [POJ-1004](http://exp-blog.com/2018/06/12/pid-92/)  [POJ-1005](http://exp-blog.com/2018/06/12/pid-98/)  [POJ-1207](http://exp-blog.com/2018/06/13/pid-165/)  [POJ-3299](http://exp-blog.com/2018/06/13/pid-169/)  [POJ-2159](http://exp-blog.com/2018/06/13/pid-172/)  [POJ-1083](http://exp-blog.com/2018/06/14/pid-269/)  [POJ-3094](http://exp-blog.com/2018/06/15/pid-372/) |
+| [POJ-1000](/reports/POJ1000-a%20plus%20b)  [POJ-1003](http://exp-blog.com/2018/06/12/pid-88/)  [POJ-1004](http://exp-blog.com/2018/06/12/pid-92/)  [POJ-1005](http://exp-blog.com/2018/06/12/pid-98/)  [POJ-1207](http://exp-blog.com/2018/06/13/pid-165/)  [POJ-3299](http://exp-blog.com/2018/06/13/pid-169/)  [POJ-2159](http://exp-blog.com/2018/06/13/pid-172/)  [POJ-1083](http://exp-blog.com/2018/06/14/pid-269/)  [POJ-3094](http://exp-blog.com/2018/06/15/pid-372/) |
 
 ------
 
