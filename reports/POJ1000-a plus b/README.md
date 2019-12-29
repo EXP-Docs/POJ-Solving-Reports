@@ -1,4 +1,6 @@
-# [[POJ](http://poj.org/)] [[INDEX](https://github.com/lyy289065406/POJ-Solving-Reports)] [[A+B Problem](http://poj.org/problem?id=1000)] [Time: 1000MS] [Memory: 10000K] [难度: 水题] [分类: 无]
+# [[POJ](http://poj.org/)] [[INDEX](https://github.com/lyy289065406/POJ-Solving-Reports)] [[A+B Problem](http://poj.org/problem?id=1000)]
+
+> [Time: 1000MS] [Memory: 10000K] [难度: 水题] [分类: 无]
 
 ------
 
@@ -8,7 +10,7 @@
 
 ## AC代码
 
-> [Download Link]()
+> [Download Link](https://github.com/lyy289065406/POJ-Solving-Reports/tree/master/reports/POJ1000-a%20plus%20b/src)
 
 
 ```c
