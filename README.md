@@ -8,17 +8,17 @@
 ------
 
 
-## 1.入门水题
+## 1. 入门水题
 
-| <font color="red">可用于练手与增强自信</font> |
+| 可用于练手与增强自信 |
 | :------: |
 | [POJ-1000](/reports/POJ1000-a%20plus%20b)  [POJ-1003](/reports/POJ1003-Hangover)  [POJ-1004](/reports/POJ1004-Financial%20Management)  [POJ-1005](/reports/POJ1005-I%20Think%20I%20Need%20a%20Houseboat)  [POJ-1207](/reports/POJ1207-The%203n%20plus%201%20problem)  [POJ-3299](/reports/POJ3299-Humidex)  [POJ-2159](/reports/POJ2159-Ancient%20Cipher)  [POJ-1083](/reports/POJ1083-Moving%20Tables)  [POJ-3094](/reports/POJ3094-Quicksum) |
 
 ------
 
-## 2.初级
+## 2. 初级
 
-| <font color="red">2.1. 基本算法</font> | - |
+| 2.1. 基本算法 | - |
 | :----: |:----:|
 | 枚举 | [POJ-1753](/reports/POJ1753-Flip%20Game)  [POJ-2965](/reports/POJ2965-The%20Pilots%20Brothers'%20refrigerator) |
 | 贪心 | [POJ-1328](/reports/POJ1328-Radar%20Installation)    [POJ-2586](/reports/POJ2586-Y2K%20Accounting%20Bug) |
@@ -31,7 +31,7 @@
 
 
 
-| <font color="red">2.2. 图算法</font> | - |
+| 2.2. 图算法 | - |
 | :----: |:----:|
 | 图遍历（前序序列、中序序列、后序序列） | [POJ-2255](/reports/POJ2255-Tree%20Recovery) |
 | 最短路径算法<br/>（dijkstra, bellman-ford, <br/>floyd, heap+dijkstra） | [POJ-1860](http://exp-blog.com/2018/06/17/pid-588/)  [POJ-3259](http://exp-blog.com/2018/06/17/pid-591/)  [POJ-1062](http://exp-blog.com/2018/06/17/pid-594/) <br/>[POJ-2253](http://exp-blog.com/2018/06/17/pid-597/)  [POJ-1125](http://exp-blog.com/2018/06/17/pid-600/)  [POJ-2240](http://exp-blog.com/2018/06/17/pid-604/) |
@@ -43,7 +43,7 @@
 
 
 
-| <font color="red">2.3. 数据结构</font> | - |
+| 2.3. 数据结构 | - |
 | :----: |:----:|
 | 串 | [POJ-1016](http://exp-blog.com/2018/06/25/pid-1175/)  [POJ-1035](http://exp-blog.com/2018/06/18/pid-690/)  [POJ-3080](http://exp-blog.com/2018/06/18/pid-698/)  [POJ-1936](http://exp-blog.com/2018/06/18/pid-709/) |
 | 排序（快排、归并排、堆排） | [POJ-1007](http://exp-blog.com/2018/06/18/pid-712/)  [POJ-2388](http://exp-blog.com/2018/06/18/pid-718/)  [POJ-1804](http://exp-blog.com/2018/06/19/pid-730/)  [POJ-2299](http://exp-blog.com/2018/06/19/pid-726/) |
@@ -56,7 +56,7 @@
 
 
 
-| <font color="red">2.4. 搜索</font> | - |
+| 2.4. 搜索 | - |
 | :----: |:----:|
 | 深度优先搜索DFS | [POJ-2488](http://exp-blog.com/2018/06/20/pid-783/)  [POJ-3083](http://exp-blog.com/2018/06/21/pid-786/)  [POJ-3009](http://exp-blog.com/2018/06/21/pid-789/)  [POJ-1321](http://exp-blog.com/2018/06/21/pid-799/) |
 | 广度优先搜索BFS | [POJ-3278](http://exp-blog.com/2018/06/22/pid-810/)  [POJ-1426](http://exp-blog.com/2018/06/22/pid-813/)  [POJ-3126](http://exp-blog.com/2018/06/23/pid-818/)  [POJ-3414](http://exp-blog.com/2018/06/23/pid-821/)  [POJ-2251](http://exp-blog.com/2018/06/23/pid-824/) |
@@ -65,7 +65,7 @@
 
 
 
-| <font color="red">2.5. 动态规划</font> | - | - |
+| 2.5. 动态规划 | - | - |
 | :----: |:----:|:----:|
 | 背包问题 | - | [POJ-1837](http://exp-blog.com/2018/06/23/pid-882/)  [POJ-1276](http://exp-blog.com/2018/06/23/pid-887/)  [POJ-1014](http://exp-blog.com/2018/06/25/pid-1168/) |
 | DP（动态规划）<br/>可参考《刘汝佳：算法法艺术与信息学竞赛》<br/>（黑书一）page 149 | E[j] = opt{D+w(i,j)}  | [POJ-1018](/reports/POJ1018-Communication%20System)  [POJ-3267](http://exp-blog.com/2018/06/23/pid-890/)  [POJ-1260](http://exp-blog.com/2018/06/23/pid-908/)  |
@@ -75,7 +75,7 @@
 
 
 
-| <font color="red">2.6. 数学</font> | - | - |
+| 2.6. 数学 | - | - |
 | :----: |:----:|:----:|
 | 组合数学 | 加法原理和乘法原理 |  |
 | - | 排列组合 | [POJ-3252](http://exp-blog.com/2018/06/23/pid-988/)  [POJ-1850](http://exp-blog.com/2018/06/23/pid-992/)  [POJ-1496](http://exp-blog.com/2018/06/23/pid-997/)  [POJ-1942](http://exp-blog.com/2018/06/23/pid-1012/)  |
@@ -92,7 +92,7 @@
 
 
 
-| <font color="red">2.7. 计算几何学</font> | - |
+| 2.7. 计算几何学 | - |
 | :----: |:----:|
 | 几何公式 | [POJ-2031](http://exp-blog.com/2018/06/24/pid-1078/)   |
 | 叉积和点积的运用<br/>（如线段相交的判定、点到线段的距离等） | [POJ-1039](http://exp-blog.com/2018/06/24/pid-1081/) |
@@ -102,9 +102,9 @@
 
 ------
 
-## 3.中级
+## 3. 中级
 
-| <font color="red">3.1. 基本算法</font> | - |
+| 3.1. 基本算法 | - |
 | :----: |:----:|
 | C++的标准模版库的应用 | [POJ-3096](http://exp-blog.com/2018/06/24/pid-1107/)  [POJ-3007](http://exp-blog.com/2018/06/24/pid-1110/) |
 | 较为复杂的模拟题的训练 | [POJ-3393](http://exp-blog.com/2018/06/24/pid-1114/)  [POJ-1472](http://exp-blog.com/2018/06/24/pid-1117/)  [POJ-3371](http://exp-blog.com/2018/06/24/pid-1127/)  [POJ-1027](http://exp-blog.com/2018/06/24/pid-1130/)  [POJ-2706](http://exp-blog.com/2018/06/24/pid-1133/)  [POJ-1009](http://exp-blog.com/2018/06/25/pid-1141/) |
@@ -112,7 +112,7 @@
 
 
 
-| <font color="red">3.2. 图算法</font> | - |
+| 3.2. 图算法 | - |
 | :----: |:----:|
 | 差分约束系统的建立和求解 | [POJ-1716](http://exp-blog.com/2018/06/25/pid-1151/)  [POJ-1201](http://exp-blog.com/2018/06/25/pid-1154/)  [POJ-2983](http://exp-blog.com/2018/06/25/pid-1157/) |
 | 最小费用最大流 | [POJ-2516](http://exp-blog.com/2018/06/26/pid-1262/)  [POJ-2195](http://exp-blog.com/2018/06/26/pid-1254/) |
@@ -124,7 +124,7 @@
 
 
 
-| <font color="red">3.3. 数据结构</font> | - |
+| 3.3. 数据结构 | - |
 | :----: |:----:|
 | 线段树 | [POJ-2528](http://exp-blog.com/2018/06/27/pid-1305/)  POJ-2828  POJ-2777  POJ-2886  POJ-2750 |
 | 静态二叉检索树 | POJ-2482  POJ-2352 |
@@ -136,7 +136,7 @@
 
 
 
-| <font color="red">3.4. 搜索</font> | - |
+| 3.4. 搜索 | - |
 | :----: |:----:|
 | 最优化剪枝和可行性剪枝 |  |
 | 搜索的技巧和优化 | [POJ-1020](http://exp-blog.com/2018/06/25/pid-1196/)  [POJ-3411](http://exp-blog.com/2018/06/25/pid-1204/)  [POJ-1724](http://exp-blog.com/2018/06/26/pid-1211/) |
@@ -146,7 +146,7 @@
 
 
 
-| <font color="red">3.5. 动态规划</font> | - |
+| 3.5. 动态规划 | - |
 | :----: |:----:|
 | 较复杂的动态规划<br/>（如特别的旅行商问题等） | POJ-1191  POJ-1054  POJ-3280  POJ-2029  POJ-2948  POJ-1925  POJ-3034 |
 | 记录状态的动态规划 | POJ-3254  POJ-2411  POJ-1185 |
@@ -155,7 +155,7 @@
 
 
 
-| <font color="red">3.6. 数学</font> | - | - |
+| 3.6. 数学 | - | - |
 | :----: |:----:|:----:|
 | 组合数学 | 容斥原理 |  |
 | - | 抽屉原理 |  |
@@ -175,7 +175,7 @@
 
 
 
-| <font color="red">3.7. 计算几何学</font> | - |
+| 3.7. 计算几何学 | - |
 | :----: |:----:|
 | 坐标离散化 |  |
 | 扫描线算法<br/>（如求矩形的面积和周长，常和线段树或堆一起使用） | POJ-1765  POJ-1177  POJ-1151  POJ-3277  POJ-2280  POJ-3004 |
@@ -185,9 +185,9 @@
 
 ------
 
-## 4.高级
+## 4. 高级
 
-| <font color="red">4.1. 基本算法</font> | - |
+| 4.1. 基本算法 | - |
 | :----: |:----:|
 | 代码快速写成（精简但不失风格） | [POJ-2525](http://exp-blog.com/2018/06/27/pid-1266/)  POJ-1684  POJ-1421  POJ-1048  POJ-2050  POJ-3306 |
 | 保证正确性和高效性 | POJ-3434 |
@@ -195,7 +195,7 @@
 
 
 
-| <font color="red">4.2. 图算法</font> | - |
+| 4.2. 图算法 | - |
 | :----: |:----:|
 | 度限制最小生成树 和 第K最短路 | POJ-1639 |
 | 最短路、最小生成树、二分图、最大流问题的相关理论<br/>（主要是模型建立和求解） | POJ-3155  POJ-2112  POJ-1966  POJ-3281  POJ-1087  POJ-2289  POJ-3216  POJ-2446 |
@@ -207,7 +207,7 @@
 
 
 
-| <font color="red">4.3. 数据结构</font> | - |
+| 4.3. 数据结构 | - |
 | :----: |:----:|
 | trie图的建立和应用 | POJ-2778 |
 | LCA和RMQ问题：<br/>LCA（最近公共祖先问题）<br/>离线算法（并查集+dfs）<br/>在线算法（RMQ+dfs） | POJ-1330 |
@@ -218,7 +218,7 @@
 
 
 
-| <font color="red">4.4. 搜索</font> | - |
+| 4.4. 搜索 | - |
 | :----: |:----:|
 | 较麻烦的搜索题目训练 | POJ-1069  POJ-3322  POJ-1475  POJ-1924  POJ-2049  POJ-3426 |
 | 广搜优化<br/>（利用M进制数存储状态、转化为串用hash表判重、按位压缩存储状态、双向广搜、A*算法）（RMQ+dfs） | POJ-1768  POJ-1184  POJ-1872  POJ-1324  POJ-2046  POJ-1482 |
@@ -227,7 +227,7 @@
 
 
 
-| <font color="red">4.5. 动态规划</font> | - |
+| 4.5. 动态规划 | - |
 | :----: |:----:|
 | 需要用数据结构优化的动态规划 | POJ-2754  POJ-3378  POJ-3017 |
 | 四边形不等式理论 |  |
@@ -236,7 +236,7 @@
 
 
 
-| <font color="red">4.6. 数学</font> | - | - |
+| 4.6. 数学 | - | - |
 | :----: |:----:|:----:|
 | 组合数学 | MoBius反演 | POJ-2888  POJ-2154 |
 | - | 偏序关系理论 |  |
@@ -246,7 +246,7 @@
 
 
 
-| <font color="red">4.7. 计算几何学</font> | - |
+| 4.7. 计算几何学 | - |
 | :----: |:----:|
 | 半平面求交 | POJ-3384  POJ-2540 |
 | 可视图的建立 | POJ-2966 |
@@ -256,7 +256,7 @@
 
 
 
-| <font color="red">4.8. 综合题</font> |
+| 4.8. 综合题 |
 | :------: |
 | POJ-3109  POJ-1478  POJ-1462  POJ-2729  POJ-2048  POJ-3336  POJ-3315  POJ-2148  POJ-1263 |
 
