@@ -8,6 +8,10 @@
 
 无。
 
+## 解题思路
+
+见代码注释。
+
 ## AC 源码
 
 > [Download Link](/reports/POJ2109-Power%20of%20Cryptography/src)
