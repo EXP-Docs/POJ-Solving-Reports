@@ -1,6 +1,6 @@
 # [[POJ](http://poj.org/)] [[INDEX](https://github.com/lyy289065406/POJ-Solving-Reports)] [2255] [[Tree Recovery](http://poj.org/problem?id=2255)]
 
-> [Time: 1000MS] [Memory: 10000K] [难度: 初级] [分类: 图遍历]
+> [Time: 1000MS] [Memory: 65536K] [难度: 初级] [分类: 图遍历]
 
 ------
 
