@@ -1,9 +1,9 @@
 # POJ-Solving-Reports
 
 > [北大 POJ 题库（官网在线）](http://poj.org/)
-<br/> [北大 POJ 题库（离线版）](https://github.com/lyy289065406/POJ-Solving-Reports)
+<br/> [北大 POJ 题库（离线版）](https://github.com/lyy289065406/POJ-Solving-Reports/blob/master/doc/POJ%E7%A6%BB%E7%BA%BF%E7%89%88%E9%A2%98%E7%9B%AE.chm)
 <br/> [POJ封面书《程序设计导引及在线实践》（密码：9ty5cx）](https://share.weiyun.com/5buxizq)
-
+<br/> [ACM 资料](https://lyy289065406.github.io/exp-blog/gitbook/book/markdown/technical/algorithm/acm/)
 
 ------
 
@@ -12,7 +12,7 @@
 
 | <font color="red">可用于练手与增强自信</font> |
 | :------: |
-| [POJ-1003](http://exp-blog.com/2018/06/12/pid-88/)  [POJ-1004](http://exp-blog.com/2018/06/12/pid-92/)  [POJ-1005](http://exp-blog.com/2018/06/12/pid-98/)  [POJ-1207](http://exp-blog.com/2018/06/13/pid-165/)  [POJ-3299](http://exp-blog.com/2018/06/13/pid-169/)  [POJ-2159](http://exp-blog.com/2018/06/13/pid-172/)  [POJ-1083](http://exp-blog.com/2018/06/14/pid-269/)  [POJ-3094](http://exp-blog.com/2018/06/15/pid-372/) |
+| [POJ-1000](/tree/master/reports/POJ1000-a%20plus%20b)  [POJ-1003](http://exp-blog.com/2018/06/12/pid-88/)  [POJ-1004](http://exp-blog.com/2018/06/12/pid-92/)  [POJ-1005](http://exp-blog.com/2018/06/12/pid-98/)  [POJ-1207](http://exp-blog.com/2018/06/13/pid-165/)  [POJ-3299](http://exp-blog.com/2018/06/13/pid-169/)  [POJ-2159](http://exp-blog.com/2018/06/13/pid-172/)  [POJ-1083](http://exp-blog.com/2018/06/14/pid-269/)  [POJ-3094](http://exp-blog.com/2018/06/15/pid-372/) |
 
 ------
 

@@ -8,7 +8,7 @@
 
 水题，直接求解即可。
 
-## AC代码
+## AC 源码
 
 > [Download Link](https://github.com/lyy289065406/POJ-Solving-Reports/tree/master/reports/POJ1000-a%20plus%20b/src)
 
