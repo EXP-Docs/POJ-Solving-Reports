@@ -4,6 +4,10 @@
 
 ------
 
+## 问题描述
+
+无。
+
 ## 解题思路
 
 2011年5月ACM珠海赛的试机题
@@ -12,7 +16,7 @@
 
 ## AC 源码
 
-> [Download Link](/reports/POJ1004-Financial%20Management)
+> [Download Link](/reports/POJ1004-Financial%20Management/src)
 
 
 ```c
