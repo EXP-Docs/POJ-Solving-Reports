@@ -15,7 +15,7 @@
 
 ## 测试数据
 
-- [Tehran 2002, First Iran Nationwide Internet Programming Contest（问题C）](http://sina.sharif.edu/~acmicpc/acmicpc02/inipc/inipcprobs.html)（已失效）
+- 来源（已失效）：[Tehran 2002, First Iran Nationwide Internet Programming Contest（问题C）](http://sina.sharif.edu/~acmicpc/acmicpc02/inipc/inipcprobs.html)
 - [input](/reports/POJ1018-Communication%20System/testdata/input.dat)
 - [output](/reports/POJ1018-Communication%20System/testdata/output.dat)
 
