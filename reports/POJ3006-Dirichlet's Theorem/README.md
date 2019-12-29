@@ -1,4 +1,4 @@
-# [[POJ](http://poj.org/)] [[INDEX](https://github.com/lyy289065406/POJ-Solving-Reports)] [3006] [[Dirichlet's Theorem on Arithmetic Progressions](http://poj.org/problem?id=3006)]
+## [[POJ](http://poj.org/)] [[INDEX](https://github.com/lyy289065406/POJ-Solving-Reports)] [3006] [[Dirichlet's Theorem on Arithmetic Progressions](http://poj.org/problem?id=3006)]
 
 > [Time: 1000MS] [Memory: 65536K] [难度: 初级] [分类: 素数]
 
