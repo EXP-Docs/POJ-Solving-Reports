@@ -1,6 +1,6 @@
 ## [[POJ](http://poj.org/)] [[INDEX](https://github.com/lyy289065406/POJ-Solving-Reports)] [3239] [[Solution to the n Queens Puzzle](http://poj.org/problem?id=3239)]
 
-> [Time: 1000MS] [Memory: 131072K] [难度: 水题] [分类: 无]
+> [Time: 1000MS] [Memory: 131072K] [难度: 初级] [分类: 构造法]
 
 ------
 
@@ -19,7 +19,7 @@ N皇后问题，由于n的规模较大，可使用构造法解题。
  - [中文译文](https://lyy289065406.github.io/exp-blog/gitbook/book/markdown/technical/algorithm/N%E7%9A%87%E5%90%8E%E9%97%AE%E9%A2%98.html)（本人亲译，补充了现在网上流传的 【构造法公式的推导过程】）
 
 
-## 资源下载
+**相关文档下载**：
 
 - [《N皇后构造法原理》 英文原文](/reports/POJ3239-Solution%20to%20the%20n%20Queens%20Puzzle/doc/Constructions%20for%20the%20Solution%20of%20the%20m%20Queens%20Problem.pdf)
 - [《N皇后构造法原理》 译文（PDF）](/reports/POJ3239-Solution%20to%20the%20n%20Queens%20Puzzle/doc/M%E7%9A%87%E5%90%8E%E9%97%AE%E9%A2%98-%E6%9E%84%E9%80%A0%E6%B3%95%E5%8E%9F%E7%90%86.pdf)
