@@ -1,4 +1,4 @@
-# [[POJ](http://poj.org/)] [[INDEX](https://github.com/lyy289065406/POJ-Solving-Reports)] [[1000 - A+B Problem](http://poj.org/problem?id=1000)]
+# [[POJ](http://poj.org/)] [[INDEX](https://github.com/lyy289065406/POJ-Solving-Reports)] [1000] [[A+B Problem](http://poj.org/problem?id=1000)]
 
 > [Time: 1000MS] [Memory: 10000K] [难度: 水题] [分类: 无]
 
