@@ -1,4 +1,4 @@
-# [[POJ](http://poj.org/)] [[INDEX](https://github.com/lyy289065406/POJ-Solving-Reports)] [1000] [[A+B Problem](http://poj.org/problem?id=1000)]
+# [[POJ](http://poj.org/)] [[INDEX](https://github.com/lyy289065406/POJ-Solving-Reports)] [1004] [[Financial Management](http://poj.org/problem?id=1004)]
 
 > [Time: 1000MS] [Memory: 10000K] [难度: 水题] [分类: 无]
 
@@ -6,30 +6,46 @@
 
 ## 解题思路
 
+2011年5月ACM珠海赛的试机题
+
 水题，直接求解即可。
 
 ## AC 源码
 
-> [Download Link](/reports/POJ1000-a%20plus%20b/src)
+> [Download Link](/reports/POJ1004-Financial%20Management)
 
 
 ```c
 /*
 	Author:     Exp
 	Date:       2017-11-29
-	Code:       POJ 1000
-	Problem:    a加b
-	URL:		http://poj.org/problem?id=1000
+	Code:       POJ 1004
+	Problem:    Financial Management
+	URL:		http://poj.org/problem?id=1004
 */
 
+/*
+	题意分析：
+	 每次输入12个浮点数，求其平均数（注意输出精度为2位小数）
+*/
+
+#include <iomanip>
 #include <iostream>
 using namespace std;
 
+
 int main(void) {
-	int a, b;
-	cin >> a;
-	cin >> b;
-	cout << a + b << endl;
+	const int N = 12;
+	double sum = 0.0;
+
+	for(int i = 0; i < N; i++) {
+		double num = 0.0;
+		cin >> num;
+		sum += num;
+	}
+
+	double avg = sum / N;
+	cout << fixed << setprecision(2) << '$' << avg << endl;
 
 	//system("pause");
 	return 0;
