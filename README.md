@@ -12,7 +12,7 @@
 
 | <font color="red">可用于练手与增强自信</font> |
 | :------: |
-| [POJ-1000](/reports/POJ1000-a%20plus%20b)  [POJ-1003](http://exp-blog.com/2018/06/12/pid-88/)  [POJ-1004](http://exp-blog.com/2018/06/12/pid-92/)  [POJ-1005](http://exp-blog.com/2018/06/12/pid-98/)  [POJ-1207](http://exp-blog.com/2018/06/13/pid-165/)  [POJ-3299](http://exp-blog.com/2018/06/13/pid-169/)  [POJ-2159](http://exp-blog.com/2018/06/13/pid-172/)  [POJ-1083](http://exp-blog.com/2018/06/14/pid-269/)  [POJ-3094](http://exp-blog.com/2018/06/15/pid-372/) |
+| [POJ-1000](/reports/POJ1000-a%20plus%20b)  [POJ-1003](/reports/POJ1003-Hangover)  [POJ-1004](/reports/POJ1004-Financial%20Management)  [POJ-1005](/reports/POJ1005-I%20Think%20I%20Need%20a%20Houseboat)  [POJ-1207](/reports/POJ1207-The%203n%20plus%201%20problem)  [POJ-3299](/reports/POJ3299-Humidex)  [POJ-2159](/reports/POJ2159-Ancient%20Cipher)  [POJ-1083](/reports/POJ1083-Moving%20Tables)  [POJ-3094](/reports/POJ3094-Quicksum) |
 
 ------
 
@@ -20,20 +20,20 @@
 
 | <font color="red">2.1. 基本算法</font> | - |
 | :----: |:----:|
-| 枚举 | [POJ-1753](http://exp-blog.com/2018/06/15/pid-392/)  [POJ-2965](http://exp-blog.com/2018/06/15/pid-399/) |
-| 贪心 | [POJ-1328](http://exp-blog.com/2018/06/15/pid-406/)    [POJ-2586](http://exp-blog.com/2018/06/15/pid-414/) |
+| 枚举 | [POJ-1753](/reports/POJ1753-Flip%20Game)  [POJ-2965](/reports/POJ2965-The%20Pilots%20Brothers'%20refrigerator) |
+| 贪心 | [POJ-1328](/reports/POJ1328-Radar%20Installation)    [POJ-2586](/reports/POJ2586-Y2K%20Accounting%20Bug) |
 | 递归和分治法 | - |
 | 递推 | - |
-| 构造法 | [POJ-3295](http://exp-blog.com/2018/06/15/pid-417/)  [POJ-3239](http://exp-blog.com/2018/06/15/pid-420/) |
+| 构造法 | [POJ-3295](https://github.com/lyy289065406/POJ-Solving-Reports/tree/master/reports/POJ3295-Tautology)  [POJ-3239](/reports/POJ3239-Solution%20to%20the%20n%20Queens%20Puzzle) |
 | 模拟法 | [POJ-1008](http://exp-blog.com/2018/06/17/pid-509/)  [POJ-1068](http://exp-blog.com/2018/06/17/pid-512/)  [POJ-2632](http://exp-blog.com/2018/06/17/pid-515/)  [POJ-1573](http://exp-blog.com/2018/06/17/pid-527/)  [POJ-2993](http://exp-blog.com/2018/06/17/pid-534/)  [POJ-2996](http://exp-blog.com/2018/06/17/pid-530/)  [POJ-3087](http://exp-blog.com/2018/06/17/pid-541/) |
-| 高精度算法 |  [POJ-1001](http://exp-blog.com/2018/06/17/pid-568/)  [POJ-1503](http://exp-blog.com/2018/06/17/pid-573/)  [POJ-2109](http://exp-blog.com/2018/06/15/pid-409/)  [POJ-2389](http://exp-blog.com/2018/06/17/pid-576/)  [POJ-2602](http://exp-blog.com/2018/06/17/pid-580/)  [POJ-3982](http://exp-blog.com/2018/06/17/pid-584/) |
+| 高精度算法 |  [POJ-1001](http://exp-blog.com/2018/06/17/pid-568/)  [POJ-1503](http://exp-blog.com/2018/06/17/pid-573/)  [POJ-2109](/reports/POJ2109-Power%20of%20Cryptography)  [POJ-2389](http://exp-blog.com/2018/06/17/pid-576/)  [POJ-2602](http://exp-blog.com/2018/06/17/pid-580/)  [POJ-3982](http://exp-blog.com/2018/06/17/pid-584/) |
 
 
 
 
 | <font color="red">2.2. 图算法</font> | - |
 | :----: |:----:|
-| 图遍历（前序序列、中序序列、后序序列） | [POJ-2255](http://exp-blog.com/2018/06/15/pid-368/) |
+| 图遍历（前序序列、中序序列、后序序列） | [POJ-2255](/reports/POJ2255-Tree%20Recovery) |
 | 最短路径算法<br/>（dijkstra, bellman-ford, <br/>floyd, heap+dijkstra） | [POJ-1860](http://exp-blog.com/2018/06/17/pid-588/)  [POJ-3259](http://exp-blog.com/2018/06/17/pid-591/)  [POJ-1062](http://exp-blog.com/2018/06/17/pid-594/) <br/>[POJ-2253](http://exp-blog.com/2018/06/17/pid-597/)  [POJ-1125](http://exp-blog.com/2018/06/17/pid-600/)  [POJ-2240](http://exp-blog.com/2018/06/17/pid-604/) |
 | 最小生成树算法（prim, kruskal） | [POJ-1789](http://exp-blog.com/2018/06/17/pid-608/)  [POJ-2485](http://exp-blog.com/2018/06/17/pid-611/)  [POJ-1258](http://exp-blog.com/2018/06/17/pid-614/)  [POJ-3026](http://exp-blog.com/2018/06/17/pid-617/) |
 | 拓扑排序 | [POJ-1094](http://exp-blog.com/2018/06/17/pid-620/) |
@@ -68,7 +68,7 @@
 | <font color="red">2.5. 动态规划</font> | - | - |
 | :----: |:----:|:----:|
 | 背包问题 | - | [POJ-1837](http://exp-blog.com/2018/06/23/pid-882/)  [POJ-1276](http://exp-blog.com/2018/06/23/pid-887/)  [POJ-1014](http://exp-blog.com/2018/06/25/pid-1168/) |
-| DP（动态规划）<br/>可参考《刘汝佳：算法法艺术与信息学竞赛》<br/>（黑书一）page 149 | E[j] = opt{D+w(i,j)}  | [POJ-1018](http://exp-blog.com/2018/06/25/pid-1187/)  [POJ-3267](http://exp-blog.com/2018/06/23/pid-890/)  [POJ-1260](http://exp-blog.com/2018/06/23/pid-908/)  |
+| DP（动态规划）<br/>可参考《刘汝佳：算法法艺术与信息学竞赛》<br/>（黑书一）page 149 | E[j] = opt{D+w(i,j)}  | [POJ-1018](/reports/POJ1018-Communication%20System)  [POJ-3267](http://exp-blog.com/2018/06/23/pid-890/)  [POJ-1260](http://exp-blog.com/2018/06/23/pid-908/)  |
 | - | 最长公共子序列<br/>E[i,j] = opt{D[i-1,j]+xi,D[i,j-1]+yj,D[i-1][j-1]+zij} | [POJ-1015](http://exp-blog.com/2018/06/25/pid-1172/)  [POJ-3176](http://exp-blog.com/2018/06/23/pid-922/)  [POJ-1163](http://exp-blog.com/2018/06/23/pid-928/)  [POJ-1080](http://exp-blog.com/2018/06/23/pid-932/)  [POJ-1159](http://exp-blog.com/2018/06/23/pid-936/)  [POJ-2533](http://exp-blog.com/2018/06/23/pid-904/)  [POJ-1836](http://exp-blog.com/2018/06/23/pid-895/) |
 | - | 最优二分检索树问题<br/>C[i,j] = w[i,j]+opt{C[i,k-1]+C[k,j]} |  |
 
@@ -81,7 +81,7 @@
 | - | 排列组合 | [POJ-3252](http://exp-blog.com/2018/06/23/pid-988/)  [POJ-1850](http://exp-blog.com/2018/06/23/pid-992/)  [POJ-1496](http://exp-blog.com/2018/06/23/pid-997/)  [POJ-1942](http://exp-blog.com/2018/06/23/pid-1012/)  |
 | - | 递推关系 | [POJ-1012](http://exp-blog.com/2018/06/23/pid-945/)  [POJ-1019](http://exp-blog.com/2018/06/23/pid-1009/) |
 | - | 逻辑推理 | [POJ-1013](http://exp-blog.com/2018/06/25/pid-1165/)  [POJ-1017](http://exp-blog.com/2018/06/25/pid-1182/) |
-| 数论 | 素数与整除问题  | [POJ-2739](http://exp-blog.com/2018/06/14/pid-306/)  [POJ-2262](http://exp-blog.com/2018/06/14/pid-302/)  [POJ-3006](http://exp-blog.com/2018/06/15/pid-364/) |
+| 数论 | 素数与整除问题  | [POJ-2739](/reports/POJ2739-Sum%20of%20Consecutive%20Prime%20Numbers)  [POJ-2262](/reports/POJ2262-Goldbach's%20Conjecture)  [POJ-3006](/reports/POJ3006-Dirichlet's%20Theorem) |
 | - | 进制位 |  |
 | - | 同余模运算 | [POJ-2305](http://exp-blog.com/2018/06/23/pid-1016/)  [POJ-2635](http://exp-blog.com/2018/06/23/pid-1020/)  [POJ-3292](http://exp-blog.com/2018/06/23/pid-1027/)  [POJ-1845](http://exp-blog.com/2018/06/23/pid-1034/)  [POJ-2115](http://exp-blog.com/2018/06/24/pid-1042/) |
 | - | 中国余数定理<br/>（扩展欧几里德、辗转相除法） | [POJ-1006](http://exp-blog.com/2018/06/24/pid-1054/) |
