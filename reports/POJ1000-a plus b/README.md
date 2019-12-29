@@ -10,7 +10,7 @@
 
 ## AC 源码
 
-> [Download Link](/src)
+> [Download Link](/reports/POJ1000-a%20plus%20b/src)
 
 
 ```c
