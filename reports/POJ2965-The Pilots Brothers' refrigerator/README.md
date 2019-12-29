@@ -6,7 +6,7 @@
 
 ## 问题描述
 
-此题与 [POJ1753](/reports/POJ1753-Flip%20Game) 类似
+此题与 [POJ-1753](/reports/POJ1753-Flip%20Game) 类似
 
 ## 解题思路
 

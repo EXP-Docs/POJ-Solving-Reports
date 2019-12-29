@@ -6,7 +6,7 @@
 
 ## 问题描述
 
-此题与 [POJ2965](/reports/POJ2965-The%20Pilots%20Brothers'%20refrigerator) 类似
+此题与 [POJ-2965](/reports/POJ2965-The%20Pilots%20Brothers'%20refrigerator) 类似
 
 ## 解题思路
 
