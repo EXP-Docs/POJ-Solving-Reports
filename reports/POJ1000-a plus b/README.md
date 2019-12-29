@@ -10,7 +10,7 @@
 
 ## AC 源码
 
-> [Download Link](https://github.com/lyy289065406/POJ-Solving-Reports/tree/master/reports/POJ1000-a%20plus%20b/src)
+> [Download Link](/src)
 
 
 ```c
@@ -34,7 +34,6 @@ int main(void) {
 	//system("pause");
 	return 0;
 }
-
 ```
 
 ------
