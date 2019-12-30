@@ -24,268 +24,118 @@
 
 ```c
 //Memory Time 
-//236K    0MS 
+//212K   0MS 
 
 
 #include<iostream>
+#include<string>
 using namespace std;
 
-class white_piece
+class whit
 {
 public:
 	int row;
 	char col;
-	bool flag;        //在class中bool型的默认值为false
-}K,Q,R[3],B[3],N[3];
+	char pie;
+}ww[16];
 
-bool pawn[9]['i']={false};      //记录白色pawn的位置
-int PR=0,PB=0,PN=0;  //同类型棋子的指针
-
-class black_piece
+class blac
 {
 public:
 	int row;
 	char col;
-	bool flag;
-}k,q,r[2],b[2],n[2],p[8];
-
-int pr=0,pb=0,pn=0,pp=0;  
-
-char chess[9]['i'];      // ASCII: 'i'>'I',use the Row 1 to 8,and Col 'a' to 'h'
-int x,z;
-char y;
-int w_count=0;        //白棋总数
-int b_count=0;        //黑棋总数
-
-void judge(void)
-{
-	if(chess[x][y]=='.' || chess[x][y]==':')
-		return;
-	else if(chess[x][y]=='k')        //黑棋判断
-	{
-		k.row=9-x;
-		k.col=y;
-		k.flag=true;
-		b_count++;
-		return;
-	}
-	else if(chess[x][y]=='q')
-	{
-		q.row=9-x;
-		q.col=y;
-		q.flag=true;
-		b_count++;
-		return;
-	}
-	else if(chess[x][y]=='r')
-	{
-		r[pr].row=9-x;
-		r[pr++].col=y;
-		b_count++;
-		return;
-	}
-	else if(chess[x][y]=='b')
-	{
-		b[pb].row=9-x;
-		b[pb++].col=y;
-		b_count++;
-		return;
-	}
-	else if(chess[x][y]=='n')
-	{
-		n[pn].row=9-x;
-		n[pn++].col=y;
-		b_count++;
-		return;
-	}
-	else if(chess[x][y]=='p')
-	{
-		p[pp].row=9-x;
-		p[pp++].col=y;
-		b_count++;
-		return;
-	}
-	else if(chess[x][y]=='K')        //白棋判断
-	{
-		K.row=9-x;
-		K.col=y;
-		K.flag=true;
-		w_count++;
-		return;
-	}
-	else if(chess[x][y]=='Q')
-	{
-		Q.row=9-x;
-		Q.col=y;
-		Q.flag=true;
-		w_count++;
-		return;
-	}
-	else if(chess[x][y]=='R')
-	{
-		R[PR].row=9-x;
-		R[PR++].col=y;
-		w_count++;
-		return;
-	}
-	else if(chess[x][y]=='B')
-	{
-		B[PB].row=9-x;
-		B[PB++].col=y;
-		w_count++;
-		return;
-	}
-	else if(chess[x][y]=='N')
-	{
-		N[PN].row=9-x;
-		N[PN++].col=y;
-		w_count++;
-		return;
-	}
-	else if(chess[x][y]=='P')
-	{
-		pawn[9-x][y]=true;
-		w_count++;
-		return;
-	}
-}
-
-void Print(void)
-{
-	cout<<"White: ";
-	if(K.flag)
-	{
-		cout<<'K'<<K.col<<K.row;
-		if(--w_count>0)
-			cout<<',';
-	}
-	if(Q.flag)
-	{
-		cout<<'Q'<<Q.col<<Q.row;
-		if(--w_count>0)
-			cout<<',';
-	}
-
-	if(PR==2)
-		if(R[1].row<R[0].row)
-		{
-			R[2]=R[0];
-			R[0]=R[1];
-			R[1]=R[2];
-		}
-	for(x=0;x<PR;x++)
-	{
-		cout<<'R'<<R[x].col<<R[x].row;
-		if(--w_count>0)
-			cout<<',';
-	}
-
-	if(PB==2)
-		if(B[1].row<B[0].row)
-		{
-			B[2]=B[0];
-			B[0]=B[1];
-			B[1]=B[2];
-		}
-	for(x=0;x<PB;x++)
-	{
-		cout<<"B"<<B[x].col<<B[x].row;
-		if(--w_count>0)
-			cout<<',';
-	}
-
-	if(PN==2)
-		if(N[1].row<N[0].row)
-		{
-			N[2]=N[0];
-			N[0]=N[1];
-			N[1]=N[2];
-		}
-	for(x=0;x<PN;x++)
-	{
-		cout<<'N'<<N[x].col<<N[x].row;
-		if(--w_count>0)
-			cout<<',';
-	}
-
-	for(x=1;x<=8;x++)
-		for(y='a';y<='h';y++)
-			if(pawn[x][y])
-			{
-				cout<<y<<x;
-				if(--w_count>0)
-			        cout<<',';
-			}
-	
-	cout<<endl;
-
-	cout<<"Black: ";
-	if(k.flag)
-	{
-		cout<<'K'<<k.col<<k.row;
-		if(--b_count>0)
-			cout<<',';
-	}
-	if(q.flag)
-	{
-		cout<<'Q'<<q.col<<q.row;
-		if(--b_count>0)
-			cout<<',';
-	}
-	for(x=0;x<pr;x++)
-	{
-		cout<<'R'<<r[x].col<<r[x].row;
-		if(--b_count>0)
-			cout<<',';
-	}
-	for(x=0;x<pb;x++)
-	{
-		cout<<"B"<<b[x].col<<b[x].row;
-		if(--b_count>0)
-			cout<<',';
-	}
-	for(x=0;x<pn;x++)
-	{
-		cout<<'N'<<n[x].col<<n[x].row;
-		if(--b_count>0)
-			cout<<',';
-	}
-	for(x=0;x<pp;x++)
-	{
-		cout<<p[x].col<<p[x].row;
-		if(--b_count>0)
-			cout<<',';
-	}
-
-	cout<<endl;
-
-	return;
-}
+	char pie;
+}bb[16];
 
 int main(void)
 {
-	char temp;
+	char white[63],black[63];
+	gets(white);
+	gets(black);
 
-	/*Input*/
+	int x,y,z,r;
 
-	for(z=0;z<33;z++)
-		cin>>temp;
+	int count_w=0;
+	int count_b=0;
+	const int length_w=strlen(white);
+	const int length_b=strlen(black);
 
-	for(x=1;x<=8;x++)
-	{
-		cin>>temp;
-		for(y='a';y<='h';y++)
+	for(x=7,y=0;x<length_w;)
+		if(white[x]>='B' && white[x]<='R')
 		{
-			cin>>temp>>chess[x][y]>>temp>>temp;
-			judge();
+			ww[y].pie=white[x];
+			ww[y].col=white[x+1];
+			ww[y].row=white[x+2]-'0';  //字符转数字
+			y++;
+			x+=4;
+			count_w++;
 		}
-		for(z=0;z<33;z++)
-		    cin>>temp;
-	}
+		else if(white[x]>='a' && white[x]<='h')
+		{
+			ww[y].pie='P';
+			ww[y].col=white[x];
+			ww[y].row=white[x+1]-'0';
+			y++;
+			x+=3;
+		    count_w++;
+		}
+		else
+			break;
 
-	/*Print*/
+		for(x=7,y=0;x<length_b;)
+		if(black[x]>='B' && black[x]<='R')
+		{
+			bb[y].pie=black[x]+32;      //大写字母转换小写字母
+			bb[y].col=black[x+1];
+			bb[y].row=black[x+2]-'0';
+			y++;
+			x+=4;
+			count_b++;
+		}
+		else if(black[x]>='a' && black[x]<='h')
+		{
+			bb[y].pie='p';
+			bb[y].col=black[x];
+			bb[y].row=black[x+1]-'0';
+			y++;
+			x+=3;
+		    count_b++;
+		}
+		else
+			break;
 
-	Print();
+		char chess[9]['i'];
+
+		memset(chess,':',sizeof(chess));
+
+		for(x=1;x<=7;x+=2)
+			for(y='a';y<='g';y+=2)
+				chess[x][y]='.';
+		for(x=2;x<=8;x+=2)
+			for(y='b';y<='h';y+=2)
+				chess[x][y]='.';
+
+		for(x=0;x<count_w;x++)
+			chess[9-ww[x].row][ww[x].col]=ww[x].pie;
+
+		for(x=0;x<count_b;x++)
+			chess[9-bb[x].row][bb[x].col]=bb[x].pie;
+
+		cout<<"+---+---+---+---+---+---+---+---+"<<endl;
+		
+		for(x=1,r=2;x<=7;x+=2,r+=2)
+		{
+			cout<<'|';
+			for(y='a',z='b';y<='g';y+=2,z+=2)
+				cout<<"."<<chess[x][y]<<".|:"<<chess[x][z]<<":|";
+			cout<<endl;
+			cout<<"+---+---+---+---+---+---+---+---+"<<endl;
+			cout<<'|';
+			for(y='a',z='b';y<='g';y+=2,z+=2)
+				cout<<":"<<chess[r][y]<<":|."<<chess[r][z]<<".|";
+			cout<<endl;
+			cout<<"+---+---+---+---+---+---+---+---+"<<endl;
+		}
 
 	return 0;
 }
