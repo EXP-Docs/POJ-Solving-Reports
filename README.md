@@ -34,7 +34,7 @@
 | 2.2. 图算法 | - |
 | :----: |:----:|
 | 图遍历（前序序列、中序序列、后序序列） | [POJ-2255](/reports/POJ2255-Tree%20Recovery) |
-| 最短路径算法<br/>（dijkstra, bellman-ford, <br/>floyd, heap+dijkstra） | [POJ-1860](http://exp-blog.com/2018/06/17/pid-588/)  [POJ-3259](http://exp-blog.com/2018/06/17/pid-591/)  [POJ-1062](http://exp-blog.com/2018/06/17/pid-594/) <br/>[POJ-2253](http://exp-blog.com/2018/06/17/pid-597/)  [POJ-1125](http://exp-blog.com/2018/06/17/pid-600/)  [POJ-2240](http://exp-blog.com/2018/06/17/pid-604/) |
+| 最短路径算法<br/>（dijkstra, bellman-ford, <br/>floyd, heap+dijkstra） | [POJ-1860](/reports/POJ1860-Currency%20Exchange)  [POJ-3259](http://exp-blog.com/2018/06/17/pid-591/)  [POJ-1062](http://exp-blog.com/2018/06/17/pid-594/) <br/>[POJ-2253](http://exp-blog.com/2018/06/17/pid-597/)  [POJ-1125](http://exp-blog.com/2018/06/17/pid-600/)  [POJ-2240](http://exp-blog.com/2018/06/17/pid-604/) |
 | 最小生成树算法（prim, kruskal） | [POJ-1789](http://exp-blog.com/2018/06/17/pid-608/)  [POJ-2485](http://exp-blog.com/2018/06/17/pid-611/)  [POJ-1258](http://exp-blog.com/2018/06/17/pid-614/)  [POJ-3026](http://exp-blog.com/2018/06/17/pid-617/) |
 | 拓扑排序 | [POJ-1094](http://exp-blog.com/2018/06/17/pid-620/) |
 | 二分图的最大匹配 （匈牙利算法） | [POJ-3041](http://exp-blog.com/2018/06/17/pid-625/)  [POJ-3020](http://exp-blog.com/2018/06/17/pid-632/) |
