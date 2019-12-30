@@ -13,7 +13,7 @@
 
 **提示：** 很烦很简单的国际象棋棋盘**模拟**，输入比较麻烦而已。
 
-这题是 [POJ2993](http:///exp-blog.com/2018/06/17/pid-534/) 的相反情况，有趣的是，不难发现 2996 的题目和 2993 的题目字符也是相反的：
+这题是 [POJ2993](/reports/POJ2993-Emag%20eht%20htiw%20Em%20Pleh) 的相反情况，有趣的是，不难发现 2996 的题目和 2993 的题目字符也是相反的：
 
 - POJ2996-Help Me with the Game
 - POJ2993-Emag eht htiw Em Pleh
