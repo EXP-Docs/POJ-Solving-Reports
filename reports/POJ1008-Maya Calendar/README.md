@@ -1,4 +1,4 @@
-## [[POJ](http://poj.org/)] [[INDEX](https://github.com/lyy289065406/POJ-Solving-Reports)] [1008] [[A+B Problem](http://poj.org/problem?id=1008)]
+## [[POJ](http://poj.org/)] [[INDEX](https://github.com/lyy289065406/POJ-Solving-Reports)] [1008] [[Maya Calendar](http://poj.org/problem?id=1008)]
 
 > [Time: 1000MS] [Memory: 10000K] [难度: 初级] [分类: 模拟法]
 
@@ -6,7 +6,7 @@
 
 ## 问题描述
 
-无。
+玛雅历。
 
 ## 解题思路
 
