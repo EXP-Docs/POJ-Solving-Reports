@@ -25,7 +25,7 @@
 | 递归和分治法 | - |
 | 递推 | - |
 | 构造法 | [POJ-3295](/reports/POJ3295-Tautology)  [POJ-3239](/reports/POJ3239-Solution%20to%20the%20n%20Queens%20Puzzle) |
-| 模拟法 | [POJ-1008](/reports/POJ1008-Maya%20Calendar)  [POJ-1068](/reports/POJ1068-Parencodings)  [POJ-2632](http://exp-blog.com/2018/06/17/pid-515/)  [POJ-1573](http://exp-blog.com/2018/06/17/pid-527/)  [POJ-2993](http://exp-blog.com/2018/06/17/pid-534/)  [POJ-2996](http://exp-blog.com/2018/06/17/pid-530/)  [POJ-3087](http://exp-blog.com/2018/06/17/pid-541/) |
+| 模拟法 | [POJ-1008](/reports/POJ1008-Maya%20Calendar)  [POJ-1068](/reports/POJ1068-Parencodings)  [POJ-2632](/reports/POJ2632-Crashing%20Robots)  [POJ-1573](http://exp-blog.com/2018/06/17/pid-527/)  [POJ-2993](http://exp-blog.com/2018/06/17/pid-534/)  [POJ-2996](http://exp-blog.com/2018/06/17/pid-530/)  [POJ-3087](http://exp-blog.com/2018/06/17/pid-541/) |
 | 高精度算法 |  [POJ-1001](http://exp-blog.com/2018/06/17/pid-568/)  [POJ-1503](http://exp-blog.com/2018/06/17/pid-573/)  [POJ-2109](/reports/POJ2109-Power%20of%20Cryptography)  [POJ-2389](http://exp-blog.com/2018/06/17/pid-576/)  [POJ-2602](http://exp-blog.com/2018/06/17/pid-580/)  [POJ-3982](http://exp-blog.com/2018/06/17/pid-584/) |
 
 

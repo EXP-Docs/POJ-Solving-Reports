@@ -26,8 +26,8 @@
 
 ## 测试数据
 
-- [input](/reports/POJ1018-Communication%20System/testdata/input.dat)
-- [output](/reports/POJ1018-Communication%20System/testdata/output.dat)
+- [input](/reports/POJ2632-Crashing%20Robots/testdata/input.dat)
+- [output](/reports/POJ2632-Crashing%20Robots/testdata/output.dat)
 
 
 ## AC 源码
