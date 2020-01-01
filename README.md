@@ -48,7 +48,7 @@
 | 串 | [POJ-1016](/reports/POJ1016-Numbers%20That%20Count)  [POJ-1035](/reports/POJ1035-Spell%20checker)  [POJ-3080](/reports/POJ3080-Blue%20Jeans)  [POJ-1936](/reports/POJ1936-All%20in%20All) |
 | 排序（快排、归并排、堆排） | [POJ-1007](/reports/POJ1007-DNA%20Sorting)  [POJ-2388](/POJ2388-Who's%20in%20the%20Middle)  [POJ-1804](/reports/POJ1804-Brainman)  [POJ-2299](/reports/POJ2299-Ultra-QuickSort) |
 | 并查集 | - |
-| 高效查找法<br/>（数的Hash、串的Hash、二分查找） | [POJ-1002](http://exp-blog.com/2018/06/19/pid-738/)  [POJ-3349](http://exp-blog.com/2018/06/20/pid-741/)  [POJ-3274](http://exp-blog.com/2018/06/20/pid-746/)   [POJ-1840](http://exp-blog.com/2018/06/20/pid-756/)  [POJ-2002](http://exp-blog.com/2018/06/20/pid-759/)  [POJ-3432](http://exp-blog.com/2018/06/20/pid-764/)  [POJ-2503](http://exp-blog.com/2018/06/20/pid-767/) |
+| 高效查找法<br/>（数的Hash、串的Hash、二分查找） | [POJ-1002](/reports/POJ1002-487-3279)  [POJ-3349](http://exp-blog.com/2018/06/20/pid-741/)  [POJ-3274](http://exp-blog.com/2018/06/20/pid-746/)   [POJ-1840](http://exp-blog.com/2018/06/20/pid-756/)  [POJ-2002](http://exp-blog.com/2018/06/20/pid-759/)  [POJ-3432](http://exp-blog.com/2018/06/20/pid-764/)  [POJ-2503](http://exp-blog.com/2018/06/20/pid-767/) |
 | 哈夫曼树、优先队列 | [POJ-3253](http://exp-blog.com/2018/06/20/pid-771/) |
 | 堆 | - |
 | trie树（静态建树、动态建树） | [POJ-2513](http://exp-blog.com/2018/06/20/pid-774/) |
