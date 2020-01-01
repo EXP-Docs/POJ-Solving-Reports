@@ -16,8 +16,8 @@
 ## 测试数据
 
 - 来源（已失效）：[Tehran 2002, First Iran Nationwide Internet Programming Contest（问题C）](http://sina.sharif.edu/~acmicpc/acmicpc02/inipc/inipcprobs.html)
-- [input](/reports/POJ1018-Communication%20System/testdata/input.dat)
-- [output](/reports/POJ1018-Communication%20System/testdata/output.dat)
+- 输入：[input](/reports/POJ1018-Communication%20System/testdata/input.dat)
+- 输出：[output](/reports/POJ1018-Communication%20System/testdata/output.dat)
 
 
 ## AC 源码

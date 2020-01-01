@@ -26,8 +26,8 @@
 
 ## 测试数据
 
-- [input](/reports/POJ2632-Crashing%20Robots/testdata/input.dat)
-- [output](/reports/POJ2632-Crashing%20Robots/testdata/output.dat)
+- 输入：[input](/reports/POJ2632-Crashing%20Robots/testdata/input.dat)
+- 输出：[output](/reports/POJ2632-Crashing%20Robots/testdata/output.dat)
 
 
 ## AC 源码

@@ -47,9 +47,9 @@
 ## 测试数据
 
 - 来源：[2006 South Central USA Regional Programming Contest （问题4）](http://acm2006.cct.lsu.edu/problems/)
-- 下载：[download](/reports/POJ1035-Spell%20checker/testdata.zip)
-- [input](/reports/POJ1018-Communication%20System/testdata/input.dat)
-- [output](/reports/POJ1018-Communication%20System/testdata/output.dat)
+- 下载：[download](/reports/POJ3080-Blue%20Jeans/testdata.zip)
+- 输入：[input](/reports/POJ3080-Blue%20Jeans/testdata/input.dat)
+- 输出：[output](/reports/POJ3080-Blue%20Jeans/testdata/output.dat)
 
 
 ## AC 源码
