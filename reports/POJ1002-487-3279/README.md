@@ -38,7 +38,7 @@
 ## AC 源码
 
 
-### 解题思路一：Hash+Qsort
+### 解题方法一：Hash+Qsort
 
 ```c
 //Memory Time
@@ -135,7 +135,7 @@ int main(void)
 }
 ```
 
-### 解题思路一：Qsort
+### 解题方法二：Qsort
 
 ```c
 //Memory Time

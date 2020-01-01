@@ -36,7 +36,7 @@ Output file should contain exactly N digits in a single linerepresenting the sum
 
 ## AC 源码
 
-### 方法一：使用 char[] 存储数字
+### 解题方法一：使用 char[] 存储数字
 
 ```c
 //Memory  Time 
@@ -113,7 +113,7 @@ int main(int i)
 }
 ```
 
-### 方法一：使用 int[] 存储数字
+### 解题方法二：使用 int[] 存储数字
 
 ```c
 //Memory  Time 

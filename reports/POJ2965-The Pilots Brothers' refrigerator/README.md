@@ -283,7 +283,7 @@ void SwitchGroup::print(int status) {
 
 ## 【附】历史代码
 
-### 解法一：枚举
+### 解题方法一：枚举
 
 ```c
 /*代码一：DFS+Enum*/
@@ -372,7 +372,7 @@ int main(void)
 }
 ```
 
-### 解法二：位运算
+### 解题方法二：位运算
 
 ```c
 /*代码二：DFS+Bit*/
