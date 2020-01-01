@@ -64,7 +64,7 @@
 
 | 2.4. 搜索 | - |
 | :----: |:----:|
-| 深度优先搜索DFS | [POJ-2488](/reports/POJ2488-A%20Knight's%20Journey)  [POJ-3083](/reports/POJ3083-Children%20of%20the%20Candy%20Corn)  [POJ-3009](http://exp-blog.com/2018/06/21/pid-789/)  [POJ-1321](http://exp-blog.com/2018/06/21/pid-799/) |
+| 深度优先搜索DFS | [POJ-2488](/reports/POJ2488-A%20Knight's%20Journey)  [POJ-3083](/reports/POJ3083-Children%20of%20the%20Candy%20Corn)  [POJ-3009](/reports/POJ3009%20–%20Curling%202.0)  [POJ-1321](http://exp-blog.com/2018/06/21/pid-799/) |
 | 广度优先搜索BFS | [POJ-3278](http://exp-blog.com/2018/06/22/pid-810/)  [POJ-1426](http://exp-blog.com/2018/06/22/pid-813/)  [POJ-3126](http://exp-blog.com/2018/06/23/pid-818/)  [POJ-3414](http://exp-blog.com/2018/06/23/pid-821/)  [POJ-2251](http://exp-blog.com/2018/06/23/pid-824/) |
 | 简单搜索技巧和剪枝 | [POJ-1010](http://exp-blog.com/2018/06/23/pid-830/)  [POJ-2362](http://exp-blog.com/2018/06/23/pid-839/)  [POJ-1011](http://exp-blog.com/2018/06/23/pid-842/)  [POJ-1416](http://exp-blog.com/2018/06/23/pid-846/)  [POJ-2676](http://exp-blog.com/2018/06/23/pid-849/)  [POJ-1129](http://exp-blog.com/2018/06/23/pid-860/) |
 
