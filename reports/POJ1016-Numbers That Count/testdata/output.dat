@@ -1,0 +1,23 @@
+22 is self-inventorying
+31123314 is self-inventorying
+314213241519 enters an inventory loop of length 2
+21221314 is self-inventorying after 2 steps
+111222234459 enters an inventory loop of length 2
+123456789 is self-inventorying after 5 steps
+654641656 enters an inventory loop of length 2
+2101400052100005496 enters an inventory loop of length 2
+10000000002000000000 enters an inventory loop of length 3
+333 is self-inventorying after 11 steps
+1 is self-inventorying after 12 steps
+99999999999999999999999999999999999999999999999999999999999999999999999999999999 can not be classified after 15 iterations
+0000 enters an inventory loop of length 2
+0001 is self-inventorying after 8 steps
+0111 is self-inventorying after 8 steps
+1111 is self-inventorying after 8 steps
+123456789 is self-inventorying after 5 steps
+456137892 is self-inventorying after 5 steps
+123213241561 enters an inventory loop of length 2
+543265544536464364 enters an inventory loop of length 2
+5412314454766464364 is self-inventorying after 3 steps
+543267685643564364 enters an inventory loop of length 2
+5423434560121016464364 is self-inventorying after 3 steps
