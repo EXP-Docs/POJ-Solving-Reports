@@ -38,11 +38,11 @@
 
 P  N （N台机器，每台机器有P部分）
 
-接着输入N行，其实每行都是一个结点的信息
+接着输入N行，其实每行都是一个节点的信息
 
 每一行的格式为 一个Q  P个S  P个D
 
-其中Q为当前结点的容量，S都是当前结点的输入规格，D都是输出规格
+其中Q为当前节点的容量，S都是当前节点的输入规格，D都是输出规格
 
 **Sample output:**
 
@@ -98,7 +98,7 @@ const int inf=10001;
 int s; //超级源
 int t;   //超级汇
 
-int n;  //总结点数（包括超级源、超级汇）
+int n;  //总节点数（包括超级源、超级汇）
 int p;  //每台机器的部分数
 int cap[52][52];// 边容量
 
@@ -114,7 +114,7 @@ int maxflow(void)
 {
 	int queue[52];
 	int head,tail;
-	int pre[52]; //结点i的前驱
+	int pre[52]; //节点i的前驱
     
 	int minflow;
 	int flow = 0;
@@ -128,9 +128,9 @@ int maxflow(void)
         {
             x=queue[head];
             for(int i=0;(i<n) && (pre[t]==-1);i++)//当汇点还没有被标记时
-               if (cap[x][i]>0 && pre[i]==-1)  //当结点u指向i的边存在，且i还没有标记前驱时
+               if (cap[x][i]>0 && pre[i]==-1)  //当节点u指向i的边存在，且i还没有标记前驱时
                {
-                    pre[i]=x;//记录结点i的前驱为u
+                    pre[i]=x;//记录节点i的前驱为u
                     queue[++tail]=i;
                }
         }
@@ -165,7 +165,7 @@ int main(int i,int j,int k)
 	int in[52][21];
 	int out[52][3];
 	int backup[52][52];//备份图
-    int N;  //除超级源、超级汇以外的总结点数
+    int N;  //除超级源、超级汇以外的总节点数
 	int line;  //生产线数（容量发生变化的边数）
 	int flow;  //最大流
 
@@ -177,14 +177,14 @@ int main(int i,int j,int k)
 
         s=0;//超级源
 		t=N+1; //超级汇
-        n=N+2; //总结点数+2
+        n=N+2; //总节点数+2
 		line=0;  //记录变化的边的数量(生产线数量)
 
 		/*Input*/
 
         for(i=1;i<=N;i++)
             for(j=0;j<2*p+1;j++)
-                cin>>in[i][j];    //用一个数列存储第i个结点的信息 in[i][0] 为结点i的容量
+                cin>>in[i][j];    //用一个数列存储第i个节点的信息 in[i][0] 为节点i的容量
         
 		bool flag_s, flag_t;
         for(i=1;i<=N;i++)
@@ -193,9 +193,9 @@ int main(int i,int j,int k)
             for(k=0;k<p;k++)
             {
                 if(in[i][1+k]==1)
-					flag_s=false;  //检查第i个结点的输入序列信息，当输入列不含1时
+					flag_s=false;  //检查第i个节点的输入序列信息，当输入列不含1时
                 if(in[i][p+1+k]==0)
-					flag_t=false;//检查第i个结点的输出序列信息，当输出列全为1时
+					flag_t=false;//检查第i个节点的输出序列信息，当输出列全为1时
             }
             if(flag_s)
 				cap[s][i]=in[i][0];  //当输入列不含1时,S->i，边容量为i的容量
@@ -208,7 +208,7 @@ int main(int i,int j,int k)
                 {
                     flag=true;
                     for(k=0;(k<p) && flag;k++)
-						if(in[i][p+1+k]+in[j][1+k]==1)  //当第i个结点的第k个输出位，对应第j个结点的第k个输入位之和全不为0时
+						if(in[i][p+1+k]+in[j][1+k]==1)  //当第i个节点的第k个输出位，对应第j个节点的第k个输入位之和全不为0时
                             flag=false;
 
                     if(flag)
@@ -266,11 +266,11 @@ class info   //当前点j的标记信息
 public:
 	int pre;  //当前点j的前驱i
 	int lv;  //l(v)
-	int q;  //机器（结点i）的生产量（容量）
+	int q;  //机器（节点i）的生产量（容量）
 	int in[10];  //输入规格
 	int out[10]; //输出规格
-	int nei[51];  //当前结点直接指向的邻居结点
-	int pn;  //邻居结点的指针
+	int nei[51];  //当前节点直接指向的邻居节点
+	int pn;  //邻居节点的指针
 }node[52];
 
 int min(int a,int b)
@@ -451,12 +451,12 @@ class info   //当前点j的标记信息
 public:
 	int pre;  //当前点j的前驱i
 	int lv;  //l(v)
-	int q;  //机器（结点j）的总生产量（容量）
-	int f;  //机器（结点j）的当前生产量（流量）
+	int q;  //机器（节点j）的总生产量（容量）
+	int f;  //机器（节点j）的当前生产量（流量）
 	int in[10];  //输入规格
 	int out[10]; //输出规格
-	int nei[51];  //当前结点直接指向的邻居结点
-	int pn;  //邻居结点的指针
+	int nei[51];  //当前节点直接指向的邻居节点
+	int pn;  //邻居节点的指针
 }node[52];
 
 int min(int a,int b)

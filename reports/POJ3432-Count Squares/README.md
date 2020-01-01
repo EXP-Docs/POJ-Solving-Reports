@@ -66,7 +66,7 @@ void insert_vist(int k)
 		while(temp->next)     //开放寻址，直至next为空
 			temp=temp->next;
 
-		temp->next=new HashTable;   //申请新结点，用next指向，记录x、y
+		temp->next=new HashTable;   //申请新节点，用next指向，记录x、y
 		temp->next->x=pos[k].x;
 		temp->next->y=pos[k].y;
 	}

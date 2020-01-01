@@ -118,16 +118,16 @@ Hashtable* hash[prime];   // 注意hash[]是指针数组，存放地址
 
 **处理方法**：
 
-- 当读入(x1, y1)时，若 `hash[key]` 为NULL，我们直接申请一个临时节点 `Hashtable* temp`，记录x1,y1的信息，然后把结点temp的地址存放到 `hash[key]` 中，此后我们就可以利用key访问temp的地址，继而得到x1,y1的信息
+- 当读入(x1, y1)时，若 `hash[key]` 为NULL，我们直接申请一个临时节点 `Hashtable* temp`，记录x1,y1的信息，然后把节点temp的地址存放到 `hash[key]` 中，此后我们就可以利用key访问temp的地址，继而得到x1,y1的信息
 - 当读入(x2, y2)时，由于 `hash(x1，y1) = hash(x2，y2) = key` ，即(x2, y2)的信息同样要存入 `hash[key]`，但 `hash[key]` 已存有一个地址，怎么办？
 
-注意到 `hash[key]` 所存放的temp中还有一个成员next，且 `next==0`，由此，我们可以申请一个新结点存放x2,y2的信息，用next指向这个结点。
+注意到 `hash[key]` 所存放的temp中还有一个成员next，且 `next==0`，由此，我们可以申请一个新节点存放x2,y2的信息，用next指向这个节点。
 
-此后我们利用key访问temp的地址时，先检查 `temp->x` 和 `temp->y` 是否为我们所需求的信息，若不是，检查next是否非空，若next非空，则检查下一结点，直至 `next==0`。
+此后我们利用key访问temp的地址时，先检查 `temp->x` 和 `temp->y` 是否为我们所需求的信息，若不是，检查next是否非空，若next非空，则检查下一节点，直至 `next==0`。
 
 当检查完所有next后仍然找不到所要的信息，说明信息原本就不存在。
 
-**就是说hash[key]只保存第一个值为key的结点的地址，以后若出现相同key值的结点，则用前一个结点的next保存新结点的地址，其实就是一个链表**
+**就是说hash[key]只保存第一个值为key的节点的地址，以后若出现相同key值的节点，则用前一个节点的next保存新节点的地址，其实就是一个链表**
 
 简单的示意图如下：
 
@@ -197,7 +197,7 @@ void insert_vist(int k)
 		while(temp->next)     //开放寻址，直至next为空
 			temp=temp->next;
 
-		temp->next=new HashTable;   //申请新结点，用next指向，记录x、y
+		temp->next=new HashTable;   //申请新节点，用next指向，记录x、y
 		temp->next->x=pos[k].x;
 		temp->next->y=pos[k].y;
 	}
