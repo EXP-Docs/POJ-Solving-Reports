@@ -78,7 +78,7 @@ K==50,  prime=49999  1016ms
 K==100, prime=99991  1000ms
 ```
 
-![](http://exp-blog.com/wp-content/uploads/2018/06/20180623050525916.png)
+![](/reports/POJ2002-Squares/img/01.png)
 
 最后解决的地址冲突的方法，这是hash的难点。我使用的是 **链地址法**，代码如下：
 
@@ -131,7 +131,7 @@ Hashtable* hash[prime];   // 注意hash[]是指针数组，存放地址
 
 简单的示意图如下：
 
-
+![](/reports/POJ2002-Squares/img/02.png)
 
 ## AC 源码
 
