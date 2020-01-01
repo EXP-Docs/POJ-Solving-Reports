@@ -38,7 +38,7 @@
 | 最小生成树算法（prim, kruskal） | [POJ-1789](/reports/POJ1789-Truck%20History)  [POJ-2485](/reports/POJ2485-Highways)  [POJ-1258](/reports/POJ1258-Agri-Net)  [POJ-3026](/reports/POJ3026-Borg%20Maze) |
 | 拓扑排序 | [POJ-1094](/reports/POJ1094-Sorting%20It%20All%20Out) |
 | 二分图的最大匹配 （匈牙利算法） | [POJ-3041](/reports/POJ3041-Asteroids)  [POJ-3020](/reports/POJ3020-Antenna%20Placement) |
-| 最大流的增广路算法（压入重标法、KM算法） | [POJ-1459](http://exp-blog.com/2018/06/18/pid-640/)  [POJ-3436](http://exp-blog.com/2018/06/18/pid-687/) |
+| 最大流的增广路算法（压入重标法、KM算法） | [POJ-1459](/reports/POJ1459-Power%20Network)  [POJ-3436](/reports/POJ3436-ACM%20Computer%20Factory) |
 
 
 
