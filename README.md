@@ -1,8 +1,8 @@
 # POJ-Solving-Reports
 
 > [北大 POJ 题库（官网在线）](http://poj.org/)
-<br/> [北大 POJ 题库（离线版）](https://github.com/lyy289065406/POJ-Solving-Reports/blob/master/doc/POJ%E7%A6%BB%E7%BA%BF%E7%89%88%E9%A2%98%E7%9B%AE.chm)
-<br/> [POJ封面书《程序设计导引及在线实践》（密码：9ty5cx）](https://share.weiyun.com/5buxizq)
+<br/> [北大 POJ 题库（离线版）](/doc/POJ%E7%A6%BB%E7%BA%BF%E7%89%88%E9%A2%98%E7%9B%AE.chm)
+<br/> [POJ封面书《程序设计导引及在线实践》](/doc/程序设计导引及在线实践.pdf)
 <br/> [ACM 资料](https://lyy289065406.github.io/exp-blog/gitbook/book/markdown/technical/algorithm/acm/)
 
 ------
