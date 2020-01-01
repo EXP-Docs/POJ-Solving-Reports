@@ -20,8 +20,8 @@
 
 ## 测试数据
 
-- 输入：[input](/reports/POJ1016-Numbers%20That%20Count/testdata/input.dat)
-- 输出：[output](/reports/POJ1016-Numbers%20That%20Count/testdata/output.dat)
+- 输入：[input](/reports/POJ2388-Who's%20in%20the%20Middle/testdata/input.dat)
+- 输出：[output](/reports/POJ2388-Who's%20in%20the%20Middle/testdata/output.dat)
 
 
 ## AC 源码
