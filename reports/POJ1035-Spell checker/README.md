@@ -22,7 +22,7 @@
 ## 测试数据
 
 - 来源：[Northern Eurasia Contests（NEERC 1998 - 问题G）](http://neerc.ifmo.ru/past/1998.html)
-- [download](/reports/POJ1018-Communication%20System/testdata/input.dat)
+- 下载：[download](/reports/POJ1035-Spell%20checker/testdata.zip)
 
 ## AC 源码
 
