@@ -45,7 +45,7 @@
 
 | 2.3. 数据结构 | - |
 | :----: |:----:|
-| 串 | [POJ-1016](http://exp-blog.com/2018/06/25/pid-1175/)  [POJ-1035](/reports/POJ1035-Spell%20checker)  [POJ-3080](/reports/POJ3080-Blue%20Jeans)  [POJ-1936](/reports/POJ1936-All%20in%20All) |
+| 串 | [POJ-1016](/reports/POJ1016-Numbers%20That%20Count)  [POJ-1035](/reports/POJ1035-Spell%20checker)  [POJ-3080](/reports/POJ3080-Blue%20Jeans)  [POJ-1936](/reports/POJ1936-All%20in%20All) |
 | 排序（快排、归并排、堆排） | [POJ-1007](http://exp-blog.com/2018/06/18/pid-712/)  [POJ-2388](http://exp-blog.com/2018/06/18/pid-718/)  [POJ-1804](http://exp-blog.com/2018/06/19/pid-730/)  [POJ-2299](http://exp-blog.com/2018/06/19/pid-726/) |
 | 并查集 | - |
 | 高效查找法<br/>（数的Hash、串的Hash、二分查找） | [POJ-1002](http://exp-blog.com/2018/06/19/pid-738/)  [POJ-3349](http://exp-blog.com/2018/06/20/pid-741/)  [POJ-3274](http://exp-blog.com/2018/06/20/pid-746/)   [POJ-1840](http://exp-blog.com/2018/06/20/pid-756/)  [POJ-2002](http://exp-blog.com/2018/06/20/pid-759/)  [POJ-3432](http://exp-blog.com/2018/06/20/pid-764/)  [POJ-2503](http://exp-blog.com/2018/06/20/pid-767/) |

@@ -79,8 +79,8 @@ for j=1 to 15
 ## 测试数据
 
 - 来源（已失效）：[East Central North America 1998](http://plg1.cs.uwaterloo.ca/~acm00/regional98/real/)
-- 输入：[input](/reports/POJ3080-Blue%20Jeans/testdata/input.dat)
-- 输出：[output](/reports/POJ3080-Blue%20Jeans/testdata/output.dat)
+- 输入：[input](/reports/POJ1016-Numbers%20That%20Count/testdata/input.dat)
+- 输出：[output](/reports/POJ1016-Numbers%20That%20Count/testdata/output.dat)
 
 
 
