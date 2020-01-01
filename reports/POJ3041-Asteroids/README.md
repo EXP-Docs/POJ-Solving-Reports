@@ -1,6 +1,6 @@
 ## [[POJ](http://poj.org/)] [[INDEX](https://github.com/lyy289065406/POJ-Solving-Reports)] [3041] [[Asteroids](http://poj.org/problem?id=3041)]
 
-> [Time: 1000MS] [Memory: 65536K] [难度: 初级] [分类: 匈牙利算法]
+> [Time: 1000MS] [Memory: 65536K] [难度: 初级] [分类: 二分图]
 
 ------
 
