@@ -160,8 +160,8 @@ In the range from cow \#3 to cow \#6 (of size 4), each feature appears in exactl
 ## 测试数据
 
 - 来源（已失效）：[USACO 2007 March Gold](http://www.cppblog.com/Felicia/archive/2007/12/29/39923.html)
-- 输入：[input](/reports/POJ3080-Blue%20Jeans/testdata/input.dat)
-- 输出：[output](/reports/POJ3080-Blue%20Jeans/testdata/output.dat)
+- 输入：[input](/reports/POJ3274-Gold%20Balanced%20Lineup/testdata/input.dat)
+- 输出：[output](/reports/POJ3274-Gold%20Balanced%20Lineup/testdata/output.dat)
 
 
 
