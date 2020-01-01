@@ -67,7 +67,7 @@ Magenta=2
 
 为此可以使用Trie字典树，得到每个颜色单词对应的int编号id ，可以说利用Trie把string一一映射到int，是本题后续处理的关键所在。关于动态创建字典树的方法去百度，这里不多说，下面只用用一个图简单说明一下用Trie字典树标识第一个颜色单词blue：
 
-![](/reports/POJ2513-Colored%20Sticks/img/02)
+![](/reports/POJ2513-Colored%20Sticks/img/02.png)
 
 这个题目涉及了多个基本数据结构和算法，综合性很强，非常有代表性，能够A到这题确实是受益良多。
 
