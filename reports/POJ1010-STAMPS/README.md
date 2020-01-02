@@ -58,9 +58,9 @@ DFS寻找所有的解，再逐一比较寻找最优解，剪枝是关键。
 ## 测试数据
 
 - 来源：[Pacific Northwest 1998](http://www.cs.berkeley.edu/~hilfingr/programming-contest/pacific-northwest/1998/ContestProblems/)
-- 下载：[download](/reports/POJ3080-Blue%20Jeans/testdata.zip)
-- 输入：[input](/reports/POJ3080-Blue%20Jeans/testdata/input.dat)
-- 输出：[output](/reports/POJ3080-Blue%20Jeans/testdata/output.dat)
+- 下载：[download](/reports/POJ1010-STAMPS/testdata.zip)
+- 输入：[input](/reports/POJ1010-STAMPS/testdata/input.dat)
+- 输出：[output](/reports/POJ1010-STAMPS/testdata/output.dat)
 
 ## AC 源码
 
