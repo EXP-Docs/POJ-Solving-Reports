@@ -18,7 +18,7 @@
 
 若不可能得到则输出impossible
 
-![](/img/01.png)
+![](/reports/POJ3414-Pots/img/01.png)
 
 
 
