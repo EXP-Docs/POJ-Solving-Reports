@@ -52,7 +52,7 @@ since the repeaters lie in a plane, the graph formed byconnecting adjacent repea
 
 如：
 
-![](/img/01.png)
+![](/reports/POJ1129-Channel%20Allocation/img/01.png)
 
 
 再反观本题的模型，本题的相邻是“两点有边连接，但任意两边不交叉（正规相交）”，这种“相邻”其实就是四色定理的“相邻”。
@@ -80,7 +80,7 @@ G:ABF
 画成图就是：
 
 
-![](/img/02.png)
+![](/reports/POJ1129-Channel%20Allocation/img/02.png)
 
 > 由于边不允许相交，这已经是7个点的最大连接数
 
