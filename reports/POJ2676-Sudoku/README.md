@@ -38,17 +38,17 @@ row 和 col的标记比较好处理，关键是找出grid子网格的序号与 �
 
 首先我们假设子网格的序号如下编排：
 
-![](/img/01.png)
+![](/reports/POJ2676-Sudoku/img/01.png)
 
 
 由于 `1<=i`、 `j<=9`，我们有： （其中 `/` 是C++中对整数的除法）
 
-![](/img/02.png)
+![](/reports/POJ2676-Sudoku/img/02.png)
 
 
 令 `a= i/3` , `b= j/3`  ，根据九宫格的 行列 与 子网格 的 关系，我们有:
 
-![](/img/03.png)
+![](/reports/POJ2676-Sudoku/img/03.png)
 
 
 
