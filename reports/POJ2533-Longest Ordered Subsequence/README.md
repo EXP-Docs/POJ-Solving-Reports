@@ -1,6 +1,6 @@
 ## [[POJ](http://poj.org/)] [[INDEX](https://github.com/lyy289065406/POJ-Solving-Reports)] [2533] [[Longest Ordered Subsequence](http://poj.org/problem?id=2533)]
 
-> [Time: 2000MS] [Memory: 65536K] [难度: 初级] [分类: 最长公共子序列]
+> [Time: 2000MS] [Memory: 65536K] [难度: 初级] [分类: 动态规划]
 
 ------
 
