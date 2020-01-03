@@ -70,7 +70,7 @@
 ## 测试数据
 
 - 来源：[Alberta Collegiate Programming Contest 2003.10.18（问题G）](http://ugweb.cs.ualberta.ca/~acpc/2003/)
-- 下载：[download](/testdata.zip)
+- 下载：[download](/reports/POJ2528-Mayor's%20posters/testdata.zip)
 
 
 
