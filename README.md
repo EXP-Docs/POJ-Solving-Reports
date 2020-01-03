@@ -132,7 +132,7 @@
 
 | 3.3. 数据结构 | - |
 | :----: |:----:|
-| 线段树 | [POJ-2528](http://exp-blog.com/2018/06/27/pid-1305/)  POJ-2828  POJ-2777  POJ-2886  POJ-2750 |
+| 线段树 | [POJ-2528](/reports/POJ2528-Mayor's%20posters)  POJ-2828  POJ-2777  POJ-2886  POJ-2750 |
 | 静态二叉检索树 | POJ-2482  POJ-2352 |
 | 树状树组 | POJ-1195  POJ-3321 |
 | RMQ | POJ-3264  POJ-3368 |
