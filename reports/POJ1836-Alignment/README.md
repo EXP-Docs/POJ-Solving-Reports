@@ -23,7 +23,7 @@
 
 的情况，我没看他们的程序，不知道他们是不是把这些例子特殊处理了，但完全没必要，因为“允许处于三角形顶部的两个士兵等高”，图形化就是如下图：
 
-![](/img/01.png)
+![](/reports/POJ1836-Alignment/img/01.png)
 
 
 
@@ -58,8 +58,8 @@
 
 ## 测试数据
 
-- 输入：[input](/testdata/input.dat)
-- 输出：[output](/testdata/output.dat)
+- 输入：[input](/reports/POJ1836-Alignment/testdata/input.dat)
+- 输出：[output](/reports/POJ1836-Alignment/testdata/output.dat)
 
 ## AC 源码
 
