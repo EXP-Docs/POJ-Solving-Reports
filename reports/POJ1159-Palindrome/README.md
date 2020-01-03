@@ -43,7 +43,7 @@
 
 顺便贴一下**LCS的图解算法**
 
-![](/img/01.png)
+![](/reports/POJ1159-Palindrome/img/01.png)
 
 ```
 s1：2 5 7 9 3 1 2
