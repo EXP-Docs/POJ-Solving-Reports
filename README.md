@@ -85,7 +85,7 @@
 | :----: |:----:|:----:|
 | 组合数学 | 加法原理和乘法原理 |  |
 | - | 排列组合 | [POJ-3252](http://exp-blog.com/2018/06/23/pid-988/)  [POJ-1850](http://exp-blog.com/2018/06/23/pid-992/)  [POJ-1496](http://exp-blog.com/2018/06/23/pid-997/)  [POJ-1942](http://exp-blog.com/2018/06/23/pid-1012/)  |
-| - | 递推关系 | [POJ-1012](http://exp-blog.com/2018/06/23/pid-945/)  [POJ-1019](http://exp-blog.com/2018/06/23/pid-1009/) |
+| - | 递推关系 | [POJ-1012](/reports/POJ1012-Joseph)  [POJ-1019](http://exp-blog.com/2018/06/23/pid-1009/) |
 | - | 逻辑推理 | [POJ-1013](http://exp-blog.com/2018/06/25/pid-1165/)  [POJ-1017](http://exp-blog.com/2018/06/25/pid-1182/) |
 | 数论 | 素数与整除问题  | [POJ-2739](/reports/POJ2739-Sum%20of%20Consecutive%20Prime%20Numbers)  [POJ-2262](/reports/POJ2262-Goldbach's%20Conjecture)  [POJ-3006](/reports/POJ3006-Dirichlet's%20Theorem) |
 | - | 进制位 |  |
