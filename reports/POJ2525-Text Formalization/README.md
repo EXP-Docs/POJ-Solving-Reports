@@ -114,11 +114,11 @@ Acronym在Text中只有一种表现形式，就是"as listed,"，但替换时有
 ## 测试数据
 
 - 来源：[Alberta Collegiate Programming Contest 2003.10.18（问题D）](http://ugweb.cs.ualberta.ca/~acpc/2003/)
-- 下载：[download](/testdata.zip)
-- 输入1：[input](/testdata/input-1.dat)
-- 输出1：[output](/testdata/output-1.dat)
-- 输入2：[input](/testdata/input-2.dat)
-- 输出2：[output](/testdata/output-2.dat)
+- 下载：[download](/reports/POJ2525-Text%20Formalization/testdata.zip)
+- 输入1：[input](/reports/POJ2525-Text%20Formalization/testdata/input-1.dat)
+- 输出1：[output](/reports/POJ2525-Text%20Formalization/testdata/output-1.dat)
+- 输入2：[input](/reports/POJ2525-Text%20Formalization/testdata/input-2.dat)
+- 输出2：[output](/reports/POJ2525-Text%20Formalization/testdata/output-2.dat)
 
 
 ## AC 源码
