@@ -75,7 +75,7 @@
 | :----: |:----:|:----:|
 | 背包问题 | - | [POJ-1837](/reports/POJ1837-Balance)  [POJ-1276](/reports/POJ1276-Cash%20Machine)  [POJ-1014](/reports/POJ1014-Dividing) |
 | DP（动态规划）<br/>可参考《刘汝佳：算法法艺术与信息学竞赛》<br/>（黑书一）page 149 | `E[j] = opt{D+w(i,j)}`  | [POJ-1018](/reports/POJ1018-Communication%20System)  [POJ-3267](/reports/POJ3267-The%20Cow%20Lexicon)  [POJ-1260](/reports/POJ1260-Pearls)  |
-| - | 最长公共子序列<br/>`E[i,j] = opt{D[i-1,j]+xi,D[i,j-1]+yj,D[i-1][j-1]+zij}` | [POJ-1015](http://exp-blog.com/2018/06/25/pid-1172/)  [POJ-3176](http://exp-blog.com/2018/06/23/pid-922/)  [POJ-1163](http://exp-blog.com/2018/06/23/pid-928/)  [POJ-1080](http://exp-blog.com/2018/06/23/pid-932/)  [POJ-1159](http://exp-blog.com/2018/06/23/pid-936/)  [POJ-2533](/reports/POJ2533-Longest%20Ordered%20Subsequence)  [POJ-1836](/reports/POJ1836-Alignment) |
+| - | 最长公共子序列<br/>`E[i,j] = opt{D[i-1,j]+xi,D[i,j-1]+yj,D[i-1][j-1]+zij}` | [POJ-1015](http://exp-blog.com/2018/06/25/pid-1172/)  [POJ-3176](/reports/POJ3176-Cow%20Bowling)  [POJ-1163](http://exp-blog.com/2018/06/23/pid-928/)  [POJ-1080](http://exp-blog.com/2018/06/23/pid-932/)  [POJ-1159](http://exp-blog.com/2018/06/23/pid-936/)  [POJ-2533](/reports/POJ2533-Longest%20Ordered%20Subsequence)  [POJ-1836](/reports/POJ1836-Alignment) |
 | - | 最优二分检索树问题<br/>`C[i,j] = w[i,j]+opt{C[i,k-1]+C[k,j]}` |  |
 
 
