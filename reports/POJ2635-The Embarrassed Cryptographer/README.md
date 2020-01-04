@@ -59,9 +59,9 @@
 ## 测试数据
 
 - 来源：[Nordic 2005（问题C）](http://ncpc.idi.ntnu.no/)
-- 下载：[download](/testdata.zip)
-- 输入：[input](/testdata/input.dat)
-- 输出：[output](/testdata/output.dat)
+- 下载：[download](/reports/POJ2635-The%20Embarrassed%20Cryptographer/testdata.zip)
+- 输入：[input](/reports/POJ2635-The%20Embarrassed%20Cryptographer/testdata/input.dat)
+- 输出：[output](/reports/POJ2635-The%20Embarrassed%20Cryptographer/testdata/output.dat)
 
 
 ## AC 源码
