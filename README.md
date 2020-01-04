@@ -86,10 +86,10 @@
 | 组合数学 | 加法原理和乘法原理 |  |
 | - | 排列组合 | [POJ-3252](/reports/POJ3252-Round%20Numbers)  [POJ-1850](/reports/POJ1850-Code)  [POJ-1496](/reports/POJ1496-Word%20Index)  [POJ-1942](/reports/POJ1019-Number%20Sequence)  |
 | - | 递推关系 | [POJ-1012](/reports/POJ1012-Joseph)  [POJ-1019](/reports/POJ1019-Number%20Sequence) |
-| - | 逻辑推理 | [POJ-1013](/reports/POJ1013-Counterfeit%20Dollar)  [POJ-1017](http://exp-blog.com/2018/06/25/pid-1182/) |
+| - | 逻辑推理 | [POJ-1013](/reports/POJ1013-Counterfeit%20Dollar)  [POJ-1017](/reports/POJ1017-Packets) |
 | 数论 | 素数与整除问题  | [POJ-2739](/reports/POJ2739-Sum%20of%20Consecutive%20Prime%20Numbers)  [POJ-2262](/reports/POJ2262-Goldbach's%20Conjecture)  [POJ-3006](/reports/POJ3006-Dirichlet's%20Theorem) |
 | - | 进制位 |  |
-| - | 同余模运算 | [POJ-2305](/reports/POJ2305-Basic%20remains)  [POJ-2635](/reports/POJ2635-The%20Embarrassed%20Cryptographer)  [POJ-3292](http://exp-blog.com/2018/06/23/pid-1027/)  [POJ-1845](/reports/POJ1845-Sumdiv)  [POJ-2115](/reports/POJ2115-C%20Looooops) |
+| - | 同余模运算 | [POJ-2305](/reports/POJ2305-Basic%20remains)  [POJ-2635](/reports/POJ2635-The%20Embarrassed%20Cryptographer)  [POJ-3292](/reports/POJ3292-Semi-prime%20H-numbers)  [POJ-1845](/reports/POJ1845-Sumdiv)  [POJ-2115](/reports/POJ2115-C%20Looooops) |
 | - | 中国余数定理<br/>（扩展欧几里德、辗转相除法） | [POJ-1006](/reports/POJ1006-Biorhythms) |
 | 计算方法 | 二分法求解单调函数 | [POJ-3273](/reports/POJ3273-Monthly%20Expense)  [POJ-3258](/reports/POJ3258-River%20Hopscotch)  [POJ-1905](/reports/POJ1905-Expanding%20Rods)  [POJ-3122](/reports/POJ3122-Pie) |
 | - | 随机化算法 | [POJ-2531](/reports/POJ2531-Network%20Saboteur) |
