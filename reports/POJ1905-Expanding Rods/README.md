@@ -22,7 +22,7 @@
 - 红色为杆弯曲后，长度为s
 - h是所求
 
-![](/img/01.png)
+![](/reports/POJ1905-Expanding%20Rods/img/01.png)
 
 
 
@@ -37,7 +37,7 @@
 
 把四条关系式化简可以得到
 
-![](/img/02.png)
+![](/reports/POJ1905-Expanding%20Rods/img/02.png)
 
 
 逆向思维解二元方程组：
