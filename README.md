@@ -112,7 +112,7 @@
 
 | 3.1. 基本算法 | - |
 | :----: |:----:|
-| C++的标准模版库的应用 | [POJ-3096](/reports/POJ3096-Surprising%20Strings)  [POJ-3007](http://exp-blog.com/2018/06/24/pid-1110/) |
+| C++的标准模版库的应用 | [POJ-3096](/reports/POJ3096-Surprising%20Strings)  [POJ-3007](/reports/POJ3007-Organize%20Your%20Train%20part%20II) |
 | 较为复杂的模拟题的训练 | [POJ-3393](http://exp-blog.com/2018/06/24/pid-1114/)  [POJ-1472](http://exp-blog.com/2018/06/24/pid-1117/)  [POJ-3371](http://exp-blog.com/2018/06/24/pid-1127/)  [POJ-1027](http://exp-blog.com/2018/06/24/pid-1130/)  [POJ-2706](http://exp-blog.com/2018/06/24/pid-1133/)  [POJ-1009](http://exp-blog.com/2018/06/25/pid-1141/) |
 
 

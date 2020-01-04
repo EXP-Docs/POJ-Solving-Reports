@@ -29,7 +29,7 @@
 
 对于 `*ps` 指向的字符串s，我定义的关键字 
 
-![](/img/01.png)
+![](/reports/POJ3007-Organize%20Your%20Train%20part%20II/img/01.png)
 
 可以认为i为权重，利用字母的ASCII得到key
 
