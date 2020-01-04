@@ -60,7 +60,7 @@ for(i=1;i<bin[0]-1;i++)         //bin[0]记录的是二进制数的长度len
 
 这条程序得到的sum为
 
-![](/img/01.png)
+![](/reports/POJ3252-Round%20Numbers/img/01.png)
 
 
 1表示当前处理的二进制数的最高位，X表示该二进制数待放入数字的位。
@@ -111,7 +111,7 @@ for(i=bin[0]-1;i>=1;i--)
 
 其实这个“关系”是有数学公式的：
 
-![](/img/02.png)
+![](/reports/POJ3252-Round%20Numbers/img/02.png)
 
 好好体会一下吧！
 
