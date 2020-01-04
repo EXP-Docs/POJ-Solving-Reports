@@ -27,9 +27,7 @@
 
 若符合第一步，则首先计算比str长度少的所有字符串个数
 
-假设str为 vwxyz ，则其长度为5
-
-那么
+假设str为 vwxyz ，则其长度为5，那么
 
 ![](/reports/POJ1496-Word%20Index/img/01.png)
 
