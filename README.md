@@ -93,7 +93,7 @@
 | - | 中国余数定理<br/>（扩展欧几里德、辗转相除法） | [POJ-1006](/reports/POJ1006-Biorhythms) |
 | 计算方法 | 二分法求解单调函数 | [POJ-3273](/reports/POJ3273-Monthly%20Expense)  [POJ-3258](/reports/POJ3258-River%20Hopscotch)  [POJ-1905](/reports/POJ1905-Expanding%20Rods)  [POJ-3122](/reports/POJ3122-Pie) |
 | - | 随机化算法 | [POJ-2531](/reports/POJ2531-Network%20Saboteur) |
-| - | 概率 | [POJ-2151](http://exp-blog.com/2018/06/24/pid-1075/) |
+| - | 概率 | [POJ-2151](/reports/POJ2151-Check%20the%20difficulty%20of%20problems) |
 
 
 

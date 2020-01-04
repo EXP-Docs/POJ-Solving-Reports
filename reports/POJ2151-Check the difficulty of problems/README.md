@@ -31,7 +31,7 @@ ACM比赛中，共M道题，T个队，pij表示第i队解出第j题的概率
 
 **每队均至少做一题的概率P1 减去 每队做题数均在1到N-1之间的概率P2**
 
-![](/img/01.png)
+![](/reports/POJ2151-Check%20the%20difficulty%20of%20problems/img/01.png)
 
 
 
