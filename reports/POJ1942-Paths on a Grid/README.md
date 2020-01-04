@@ -30,7 +30,7 @@
 
 从n+m个位置，选择n个位放“上” （那么剩下m个位一定是“右”）
 
-![](/img/01.png)
+![](/reports/POJ1019-Number%20Sequence/img/01.png)
 
 
 ------
@@ -58,7 +58,7 @@ while(b>0)
 
 例如当 `a=5`, `b=2` 时：
 
-![](/img/02.png)
+![](/reports/POJ1019-Number%20Sequence/img/02.png)
 
 由于用了 double去计算组合数，那么最后要转化为 无符号整型 时就要处理精度问题，**有两种方法**：**四舍五入+强制类型转换**  或者 **用 `setprecision()` 函数**
 
