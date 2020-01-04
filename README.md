@@ -113,7 +113,7 @@
 | 3.1. 基本算法 | - |
 | :----: |:----:|
 | C++的标准模版库的应用 | [POJ-3096](/reports/POJ3096-Surprising%20Strings)  [POJ-3007](/reports/POJ3007-Organize%20Your%20Train%20part%20II) |
-| 较为复杂的模拟题的训练 | [POJ-3393](/reports/POJ3393-Lucky%20and%20Good%20Months%20by%20Gregorian%20Calendar)  [POJ-1472](/reports/POJ1472-Instant%20Complexity)  [POJ-3371](/reports/POJ3371-Flesch%20Reading%20Ease)  [POJ-1027](http://exp-blog.com/2018/06/24/pid-1130/)  [POJ-2706](http://exp-blog.com/2018/06/24/pid-1133/)  [POJ-1009](http://exp-blog.com/2018/06/25/pid-1141/) |
+| 较为复杂的模拟题的训练 | [POJ-3393](/reports/POJ3393-Lucky%20and%20Good%20Months%20by%20Gregorian%20Calendar)  [POJ-1472](/reports/POJ1472-Instant%20Complexity)  [POJ-3371](/reports/POJ3371-Flesch%20Reading%20Ease)  [POJ-1027](/reports/POJ1027-The%20Same%20Game)  [POJ-2706](http://exp-blog.com/2018/06/24/pid-1133/)  [POJ-1009](http://exp-blog.com/2018/06/25/pid-1141/) |
 
 
 
