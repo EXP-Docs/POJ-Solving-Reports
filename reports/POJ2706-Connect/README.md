@@ -48,8 +48,8 @@
 ## 测试数据
 
 - 来源（已失效）：[Mid-Central USA 2005](http://mcpc.cigas.net/archives.html)
-- 输入：[input](/testdata/input.dat)
-- 输出：[output](/testdata/output.dat)
+- 输入：[input](/reports/POJ2706-Connect/testdata/input.dat)
+- 输出：[output](/reports/POJ2706-Connect/testdata/output.dat)
 
 
 ## AC 源码
