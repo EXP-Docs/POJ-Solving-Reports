@@ -66,9 +66,11 @@
 
 通过EXTENDED_EUCLID算法（P571）求得d、x、y值，其中返回的x就是最小解 `x0`，求d的原理是辗转相除法（**欧几里德算法**）
 
-再利用 `MODULAR-LINEAR-EQUATION-SOLVER` 算法（P564）通过 `x0` 计算x值。注意 `x0`可能为负，因此要先 `+ n/d` 再 `模 n/d`。
+再利用 `MODULAR-LINEAR-EQUATION-SOLVER` 算法（P564）通过 `x0` 计算x值。
 
-![](/img/01.png)
+注意 `x0`可能为负，因此要先 `+ n/d` 再 `模 n/d`。
+
+![](/reports/POJ2115-C%20Looooops/img/01.png)
 
 
 以上方法的推导过程大家自己看《算法导论》。。。这里不证明，只直接使用。
@@ -90,9 +92,9 @@
 ## 测试数据
 
 - 来源：[CTU Open 2004（问题C）](http://contest.felk.cvut.cz/04prg/solved/index.html)
-- 下载：[download](/testdata.zip)
-- 输入：[input](/testdata/input.dat)
-- 输出：[output](/testdata/output.dat)
+- 下载：[download](/reports/POJ2115-C%20Looooops/testdata.zip)
+- 输入：[input](/reports/POJ2115-C%20Looooops/testdata/input.dat)
+- 输出：[output](/reports/POJ2115-C%20Looooops/testdata/output.dat)
 
 
 ## AC 源码
