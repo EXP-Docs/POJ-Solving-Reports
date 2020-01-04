@@ -49,8 +49,8 @@
 ## 测试数据
 
 - 来源（已失效）：[Mid-Central USA 2000](http://mcpc.cigas.net/archives/2000/browse.html)
-- 输入：[input](/testdata/input.dat)
-- 输出：[output](/testdata/output.dat)
+- 输入：[input](/reports/POJ1009-Edge%20Detection/testdata/input.dat)
+- 输出：[output](/reports/POJ1009-Edge%20Detection/testdata/output.dat)
 
 
 
