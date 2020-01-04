@@ -1,6 +1,6 @@
 ## [[POJ](http://poj.org/)] [[INDEX](https://github.com/lyy289065406/POJ-Solving-Reports)] [3258] [[River Hopscotch](http://poj.org/problem?id=3258)]
 
-> [Time: 2000MS] [Memory: 65536K] [难度: 初级] [分类: 计算方法]
+> [Time: 2000MS] [Memory: 65536K] [难度: 初级] [分类: 二分法]
 
 ------
 
