@@ -102,7 +102,7 @@
 | :----: |:----:|
 | 几何公式 | [POJ-2031](/reports/POJ2031-Building%20a%20Space%20Station)   |
 | 叉积和点积的运用<br/>（如线段相交的判定、点到线段的距离等） | [POJ-1039](/reports/POJ1039-Pipe) |
-| 多边形的简单算法（求面积） 和 <br/>相关判定（点在多边形内、多边形是否相交） | [POJ-1408](http://exp-blog.com/2018/06/24/pid-1086/)  [POJ-1584](http://exp-blog.com/2018/06/24/pid-1090/) |
+| 多边形的简单算法（求面积） 和 <br/>相关判定（点在多边形内、多边形是否相交） | [POJ-1408](/reports/POJ1408-Fishnet)  [POJ-1584](http://exp-blog.com/2018/06/24/pid-1090/) |
 | 凸包 | [POJ-1696](http://exp-blog.com/2018/06/24/pid-1098/)  [POJ-2187](http://exp-blog.com/2018/06/24/pid-1101/)  [POJ-1113](http://exp-blog.com/2018/06/24/pid-1104/) |
 
 
