@@ -90,7 +90,7 @@
 | 数论 | 素数与整除问题  | [POJ-2739](/reports/POJ2739-Sum%20of%20Consecutive%20Prime%20Numbers)  [POJ-2262](/reports/POJ2262-Goldbach's%20Conjecture)  [POJ-3006](/reports/POJ3006-Dirichlet's%20Theorem) |
 | - | 进制位 |  |
 | - | 同余模运算 | [POJ-2305](/reports/POJ2305-Basic%20remains)  [POJ-2635](/reports/POJ2635-The%20Embarrassed%20Cryptographer)  [POJ-3292](http://exp-blog.com/2018/06/23/pid-1027/)  [POJ-1845](/reports/POJ1845-Sumdiv)  [POJ-2115](/reports/POJ2115-C%20Looooops) |
-| - | 中国余数定理<br/>（扩展欧几里德、辗转相除法） | [POJ-1006](http://exp-blog.com/2018/06/24/pid-1054/) |
+| - | 中国余数定理<br/>（扩展欧几里德、辗转相除法） | [POJ-1006](/reports/POJ1006-Biorhythms) |
 | 计算方法 | 二分法求解单调函数 | [POJ-3273](http://exp-blog.com/2018/06/24/pid-1059/)  [POJ-3258](http://exp-blog.com/2018/06/24/pid-1062/)  [POJ-1905](http://exp-blog.com/2018/06/24/pid-1065/)  [POJ-3122](http://exp-blog.com/2018/06/24/pid-1068/) |
 | - | 随机化算法 | [POJ-2531](http://exp-blog.com/2018/06/24/pid-1072/) |
 | - | 概率 | [POJ-2151](http://exp-blog.com/2018/06/24/pid-1075/) |
