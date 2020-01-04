@@ -38,7 +38,7 @@
 
 **用环顾法**：设圆心为P，逐条枚举n边形的边AB，利用 
 
-![](/img/01.png)
+![](/reports/POJ1584-A%20Round%20Peg%20in%20a%20Ground%20Hole/img/01.png)
 
    计算PA和PB的夹角，最后求和得到的就是环顾角。
 
@@ -55,7 +55,7 @@
 
 再根据公式 `S=0.5*|AB|*h` ，可以得到
 
-![](/img/02.png)
+![](/reports/POJ1584-A%20Round%20Peg%20in%20a%20Ground%20Hole/img/02.png)
 
 枚举所有h与圆的半径R比对，只要所有的边都有 `R-h>=0` ，则说明圆在多边形内
 
