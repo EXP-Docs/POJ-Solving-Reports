@@ -62,9 +62,9 @@ END
 ## 测试数据
 
 - 来源：[Southwestern European Regional Contest 1997](http://www.informatik.uni-ulm.de/acm/Regionals/1997/)
-- 下载：[download](/testdata.zip)
-- 输入：[input](/testdata/input.dat)
-- 输出：[output](/testdata/output.dat)
+- 下载：[download](/reports/POJ1472-Instant%20Complexity/testdata.zip)
+- 输入：[input](/reports/POJ1472-Instant%20Complexity/testdata/input.dat)
+- 输出：[output](/reports/POJ1472-Instant%20Complexity/testdata/output.dat)
 
 
 ## AC 源码
