@@ -19,7 +19,7 @@
 
 为了方便下文说明，现在首先说几个小定义:
 
-![](/img/01.png)
+![](/reports/POJ1523-SPF/img/01.png)
 
 如左图G结点4开始进行**DFS**，会得到右边的深搜树，其中红色边在DFS过程中没有经历过，成【后向边】，其他边称为“树边”。
 
@@ -56,7 +56,7 @@
 
 下面贴图就是**刘汝佳求割点的算法**：
 
-![](/img/02.png)
+![](/reports/POJ1523-SPF/img/02.png)
  
 
 求出所有割点后，剩下的就是求出某个割点对应的连通分量数。这个比较好办。首先要明白，因为删除割点后，与该割点相连的边也会被删除，那么割点对应的连通分量数必定小于等于该割点的分支数，这是因为割点的某几个看似互不相连的分支，可能又在什么地方连接起来了。
@@ -79,9 +79,9 @@
 ## 测试数据
 
 - 来源：[Greater New York 2000（问题H）](http://www.acmgnyr.org/year2000/problems.shtml)
-- 下载：[download](/testdata.zip)
-- 输入：[input](/testdata/input.dat)
-- 输出：[output](/testdata/output.dat)
+- 下载：[download](/reports/POJ1523-SPF/testdata.zip)
+- 输入：[input](/reports/POJ1523-SPF/testdata/input.dat)
+- 输出：[output](/reports/POJ1523-SPF/testdata/output.dat)
 
 
 
