@@ -53,8 +53,8 @@ Discuss上很多人说用了栈空间定义的数组，提交会RE或TLE，数�
 
 ## 测试数据
 
-- 输入：[input](/testdata/input.dat)
-- 输出：[output](/testdata/output.dat)
+- 输入：[input](/reports/POJ2195-Going%20Home/testdata/input.dat)
+- 输出：[output](/reports/POJ2195-Going%20Home/testdata/output.dat)
 
 
 ## AC 源码
