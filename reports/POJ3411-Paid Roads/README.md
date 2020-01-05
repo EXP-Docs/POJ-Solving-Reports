@@ -66,13 +66,13 @@
 
 ## 测试数据
 
-- 输入：[input](/testdata/input.dat)
-- 输出：[output](/testdata/output.dat)
+- 输入：[input](/reports/POJ3411-Paid%20Roads/testdata/input.dat)
+- 输出：[output](/reports/POJ3411-Paid%20Roads/testdata/output.dat)
 
 
 ## AC 源码
 
-### 解题风格一：C++面向对象
+### 解题风格一：C++
 
 ```c
 //Memory Time 
@@ -172,7 +172,7 @@ int main(void)
 }
 ```
 
-### 解题风格二：C风格
+### 解题风格二：C
 
 ```c
 //Memory Time 
