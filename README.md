@@ -125,7 +125,7 @@
 | 双连通分量 | [POJ-2942](/reports/POJ2942-Knights%20of%20the%20Round%20Table) |
 | 强连通分支及其缩点 | [POJ-2186](/reports/POJ2186-Popular%20Cows) |
 | 图的割边和割点 | [POJ-1523](/reports/POJ1523-SPF)  [POJ-3352](/reports/POJ3352-Road%20Construction)  [POJ-3177](/reports/POJ3177-Redundant%20Paths) |
-| 最小割模型、网络流规约 | [POJ-3308](http://exp-blog.com/2018/06/27/pid-1302/) |
+| 最小割模型、网络流规约 | [POJ-3308](/reports/POJ3308-Paratroopers) |
 
 
 
