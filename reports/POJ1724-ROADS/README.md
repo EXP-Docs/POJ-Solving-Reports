@@ -27,13 +27,13 @@
 ## 测试数据
 
 - 来源：[CEOI 1998](http://www.hsin.hr/ceoi98/)
-- 下载：[download](/testdata.zip)
-- 输入1：[input](/testdata/input-1.dat)
-- 输出1：[output](/testdata/output-1.dat)
-- 输入2：[input](/testdata/input-2.dat)
-- 输出2：[output](/testdata/output-2.dat)
-- 输入3：[input](/testdata/input-3.dat)
-- 输出3：[output](/testdata/output-3.dat)
+- 下载：[download](/reports/POJ1724-ROADS/testdata.zip)
+- 输入1：[input-1](/reports/POJ1724-ROADS/testdata/input-1.dat)
+- 输出1：[output-1](/reports/POJ1724-ROADS/testdata/output-1.dat)
+- 输入2：[input-2](/reports/POJ1724-ROADS/testdata/input-2.dat)
+- 输出2：[output-2](/reports/POJ1724-ROADS/testdata/output-2.dat)
+- 输入3：[input-3](/reports/POJ1724-ROADS/testdata/input-3.dat)
+- 输出3：[output-3](/reports/POJ1724-ROADS/testdata/output-3.dat)
 
 
 
