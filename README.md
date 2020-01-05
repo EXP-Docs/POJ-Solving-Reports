@@ -146,7 +146,7 @@
 | :----: |:----:|
 | 最优化剪枝和可行性剪枝 |  |
 | 搜索的技巧和优化 | [POJ-1020](/reports/POJ1020-Anniversary%20Cake)  [POJ-3411](/reports/POJ3411-Paid%20Roads)  [POJ-1724](/reports/POJ1724-ROADS) |
-| 记忆化搜索 | [POJ-3373](/reports/POJ3373-Changing%20Digits)  [POJ-1691](http://exp-blog.com/2018/06/26/pid-1222/) |
+| 记忆化搜索 | [POJ-3373](/reports/POJ3373-Changing%20Digits)  [POJ-1691](/reports/POJ1691-Painting%20A%20Board) |
 | 搜索与状态压缩 | [POJ-1184](/reports/POJ1184-Smart%20typist) |
 
 

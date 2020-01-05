@@ -46,7 +46,7 @@
 
 矩形a与矩形b的基本位置关系共有3种，如下图：
 
-![](/img/01.png)
+![](/reports/POJ1691-Painting%20A%20Board/img/01.png)
 
 设矩形左上角的坐标为 `(Lx，Ly)` 右下角的坐标为 `(Rx，Ry)`
 
@@ -65,9 +65,9 @@
 ## 测试数据
 
 - 来源：[Tehran 1999 （问题B）](https://code.google.com/archive/p/djudge-core/downloads?page=4)
-- 下载：[download](/testdata.zip)
-- 输入：[input](/testdata/input.dat)
-- 输出：[output](/testdata/output.dat)
+- 下载：[download](/reports/POJ1691-Painting%20A%20Board/testdata.zip)
+- 输入：[input](/reports/POJ1691-Painting%20A%20Board/testdata/input.dat)
+- 输出：[output](/reports/POJ1691-Painting%20A%20Board/testdata/output.dat)
 
 ## AC 源码
 
