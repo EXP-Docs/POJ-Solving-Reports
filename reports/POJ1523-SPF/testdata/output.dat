@@ -1,0 +1,41 @@
+Network #1
+
+ SPF node 3 leaves 2 subnets
+ 
+Network #2
+
+ No SPF nodes
+
+Network #3
+
+SPF node 2 leaves 2 subnets
+
+SPF node 3 leaves 2 subnets
+
+Network #4
+
+ No SPF nodes
+
+Network #5
+
+ No SPF nodes
+
+Network #6
+
+ SPF node 2 leaves 2 subnets
+
+Network #7
+
+ SPF node 1 leaves 4 subnets
+
+Network #8
+
+ SPF node 1 leaves 2 subnets
+
+ SPF node 2 leaves 3 subnets
+
+ SPF node 3 leaves 2 subnets
+
+Network #9
+
+ No SPF nodes
