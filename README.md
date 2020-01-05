@@ -120,7 +120,7 @@
 
 | 3.2. 图算法 | - |
 | :----: |:----:|
-| 差分约束系统的建立和求解 | [POJ-1716](http://exp-blog.com/2018/06/25/pid-1151/)  [POJ-1201](http://exp-blog.com/2018/06/25/pid-1154/)  [POJ-2983](http://exp-blog.com/2018/06/25/pid-1157/) |
+| 差分约束系统的建立和求解 | [POJ-1716](/reports/POJ1716-Integer%20Intervals)  [POJ-1201](http://exp-blog.com/2018/06/25/pid-1154/)  [POJ-2983](http://exp-blog.com/2018/06/25/pid-1157/) |
 | 最小费用最大流 | [POJ-2516](http://exp-blog.com/2018/06/26/pid-1262/)  [POJ-2195](http://exp-blog.com/2018/06/26/pid-1254/) |
 | 双连通分量 | [POJ-2942](http://exp-blog.com/2018/06/27/pid-1282/) |
 | 强连通分支及其缩点 | [POJ-2186](http://exp-blog.com/2018/06/27/pid-1299/) |
