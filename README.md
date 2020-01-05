@@ -147,7 +147,7 @@
 | 最优化剪枝和可行性剪枝 |  |
 | 搜索的技巧和优化 | [POJ-1020](http://exp-blog.com/2018/06/25/pid-1196/)  [POJ-3411](http://exp-blog.com/2018/06/25/pid-1204/)  [POJ-1724](http://exp-blog.com/2018/06/26/pid-1211/) |
 | 记忆化搜索 | [POJ-3373](http://exp-blog.com/2018/06/26/pid-1219/)  [POJ-1691](http://exp-blog.com/2018/06/26/pid-1222/) |
-| 搜索与状态压缩 | [POJ-1184](http://exp-blog.com/2018/06/25/pid-1162/) |
+| 搜索与状态压缩 | [POJ-1184](/reports/POJ1184-Smart%20typist) |
 
 
 
