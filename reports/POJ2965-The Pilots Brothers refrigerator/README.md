@@ -17,7 +17,7 @@
 
 ## AC 源码
 
-> [Download Link](/reports/POJ2965-The%20Pilots%20Brothers'%20refrigerator/src)
+> [Download Link](/reports/POJ2965-The%20Pilots%20Brothers%20refrigerator/src)
 
 ```c
 /*

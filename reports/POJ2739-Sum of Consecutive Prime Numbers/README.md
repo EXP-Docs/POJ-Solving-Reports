@@ -12,7 +12,7 @@
 
 本题用一般的素数求法就可以做出来了，虽然可以AC，不过时间复杂度很大。
 
-因此建议优化算法，优化的过程可以参考 [POJ-2262](/reports/POJ2262-Goldbach's%20Conjecture)。
+因此建议优化算法，优化的过程可以参考 [POJ-2262](/reports/POJ2262-Goldbachs%20Conjecture)。
 
 ## AC 源码
 

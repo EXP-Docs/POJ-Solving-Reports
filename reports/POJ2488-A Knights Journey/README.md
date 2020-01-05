@@ -24,7 +24,7 @@
 
 **按这个顺序测试，那么第一次成功周游的顺序就是字典序**
 
-![](/reports/POJ2488-A%20Knight's%20Journey/img/01.png)
+![](/reports/POJ2488-A%20Knights%20Journey/img/01.png)
 
 ## AC 源码
 

@@ -26,12 +26,12 @@
 
 | 2.1. 基本算法 | - |
 | :----: |:----:|
-| 枚举 | [POJ-1753](/reports/POJ1753-Flip%20Game)  [POJ-2965](/reports/POJ2965-The%20Pilots%20Brothers'%20refrigerator) |
+| 枚举 | [POJ-1753](/reports/POJ1753-Flip%20Game)  [POJ-2965](/reports/POJ2965-The%20Pilots%20Brothers%20refrigerator) |
 | 贪心 | [POJ-1328](/reports/POJ1328-Radar%20Installation)    [POJ-2586](/reports/POJ2586-Y2K%20Accounting%20Bug) |
 | 递归和分治法 | - |
 | 递推 | - |
 | 构造法 | [POJ-3295](/reports/POJ3295-Tautology)  [POJ-3239](/reports/POJ3239-Solution%20to%20the%20n%20Queens%20Puzzle) |
-| 模拟法 | [POJ-1008](/reports/POJ1008-Maya%20Calendar)  [POJ-1068](/reports/POJ1068-Parencodings)  [POJ-2632](/reports/POJ2632-Crashing%20Robots)  [POJ-1573](/reports/POJ1573-Robot%20Motion)  [POJ-2993](/reports/POJ2993-Emag%20eht%20htiw%20Em%20Pleh)  [POJ-2996](/reports/POJ2996-Help%20Me%20with%20the%20Game)  [POJ-3087](/reports/POJ3087-Shuffle'm%20Up) |
+| 模拟法 | [POJ-1008](/reports/POJ1008-Maya%20Calendar)  [POJ-1068](/reports/POJ1068-Parencodings)  [POJ-2632](/reports/POJ2632-Crashing%20Robots)  [POJ-1573](/reports/POJ1573-Robot%20Motion)  [POJ-2993](/reports/POJ2993-Emag%20eht%20htiw%20Em%20Pleh)  [POJ-2996](/reports/POJ2996-Help%20Me%20with%20the%20Game)  [POJ-3087](/reports/POJ3087-Shufflem%20Up) |
 | 高精度算法 |  [POJ-1001](/reports/POJ1001-Exponentiation)  [POJ-1503](/reports/POJ1503-Integer%20Inquiry)  [POJ-2109](/reports/POJ2109-Power%20of%20Cryptography)  [POJ-2389](/reports/POJ2389-Bull%20Math)  [POJ-2602](/reports/POJ2602-Superlong%20sums)  [POJ-3982](/reports/POJ3982-The%20Fibonacci%20sequence) |
 
 
@@ -52,7 +52,7 @@
 | 2.3. 数据结构 | - |
 | :----: |:----:|
 | 串 | [POJ-1016](/reports/POJ1016-Numbers%20That%20Count)  [POJ-1035](/reports/POJ1035-Spell%20checker)  [POJ-3080](/reports/POJ3080-Blue%20Jeans)  [POJ-1936](/reports/POJ1936-All%20in%20All) |
-| 排序（快排、归并排、堆排） | [POJ-1007](/reports/POJ1007-DNA%20Sorting)  [POJ-2388](/POJ2388-Who's%20in%20the%20Middle)  [POJ-1804](/reports/POJ1804-Brainman)  [POJ-2299](/reports/POJ2299-Ultra-QuickSort) |
+| 排序（快排、归并排、堆排） | [POJ-1007](/reports/POJ1007-DNA%20Sorting)  [POJ-2388](/POJ2388-Whos%20in%20the%20Middle)  [POJ-1804](/reports/POJ1804-Brainman)  [POJ-2299](/reports/POJ2299-Ultra-QuickSort) |
 | 并查集 | - |
 | 高效查找法<br/>（数的Hash、串的Hash、二分查找） | [POJ-1002](/reports/POJ1002-487-3279)  [POJ-3349](/reports/POJ3349-Snowflake%20Snow%20Snowflakes)  [POJ-3274](/reports/POJ3274-Gold%20Balanced%20Lineup)   [POJ-1840](/reports/POJ1840-Eqs)  [POJ-2002](/reports/POJ2002-Squares)  [POJ-3432](/reports/POJ3432-Count%20Squares)  [POJ-2503](/reports/POJ2503-Babelfish) |
 | 哈夫曼树、优先队列 | [POJ-3253](/reports/POJ3253-Fence%20Repair) |
@@ -64,7 +64,7 @@
 
 | 2.4. 搜索 | - |
 | :----: |:----:|
-| 深度优先搜索DFS | [POJ-2488](/reports/POJ2488-A%20Knight's%20Journey)  [POJ-3083](/reports/POJ3083-Children%20of%20the%20Candy%20Corn)  [POJ-3009](/reports/POJ3009%20–%20Curling%202.0)  [POJ-1321](/reports/POJ1321-Chess%20Problem) |
+| 深度优先搜索DFS | [POJ-2488](/reports/POJ2488-A%20Knights%20Journey)  [POJ-3083](/reports/POJ3083-Children%20of%20the%20Candy%20Corn)  [POJ-3009](/reports/POJ3009%20–%20Curling%202.0)  [POJ-1321](/reports/POJ1321-Chess%20Problem) |
 | 广度优先搜索BFS | [POJ-3278](/reports/POJ3278-Catch%20That%20Cow)  [POJ-1426](/reports/POJ1426-Find%20The%20Multiple)  [POJ-3126](/reports/POJ3126-Prime%20Path)  [POJ-3414](/reports/POJ3414-Pots)  [POJ-2251](/reports/POJ2251-Dungeon%20Master) |
 | 简单搜索技巧和剪枝 | [POJ-1010](/reports/POJ1010-STAMPS)  [POJ-2362](/reports/POJ2362-Square)  [POJ-1011](/reports/POJ1011-Sticks)  [POJ-1416](/reports/POJ1416-Shredding%20Company)  [POJ-2676](/reports/POJ2676-Sudoku)  [POJ-1129](/reports/POJ1129-Channel%20Allocation) |
 
@@ -87,7 +87,7 @@
 | - | 排列组合 | [POJ-3252](/reports/POJ3252-Round%20Numbers)  [POJ-1850](/reports/POJ1850-Code)  [POJ-1496](/reports/POJ1496-Word%20Index)  [POJ-1942](/reports/POJ1019-Number%20Sequence)  |
 | - | 递推关系 | [POJ-1012](/reports/POJ1012-Joseph)  [POJ-1019](/reports/POJ1019-Number%20Sequence) |
 | - | 逻辑推理 | [POJ-1013](/reports/POJ1013-Counterfeit%20Dollar)  [POJ-1017](/reports/POJ1017-Packets) |
-| 数论 | 素数与整除问题  | [POJ-2739](/reports/POJ2739-Sum%20of%20Consecutive%20Prime%20Numbers)  [POJ-2262](/reports/POJ2262-Goldbach's%20Conjecture)  [POJ-3006](/reports/POJ3006-Dirichlet's%20Theorem) |
+| 数论 | 素数与整除问题  | [POJ-2739](/reports/POJ2739-Sum%20of%20Consecutive%20Prime%20Numbers)  [POJ-2262](/reports/POJ2262-Goldbachs%20Conjecture)  [POJ-3006](/reports/POJ3006-Dirichlets%20Theorem) |
 | - | 进制位 |  |
 | - | 同余模运算 | [POJ-2305](/reports/POJ2305-Basic%20remains)  [POJ-2635](/reports/POJ2635-The%20Embarrassed%20Cryptographer)  [POJ-3292](/reports/POJ3292-Semi-prime%20H-numbers)  [POJ-1845](/reports/POJ1845-Sumdiv)  [POJ-2115](/reports/POJ2115-C%20Looooops) |
 | - | 中国余数定理<br/>（扩展欧几里德、辗转相除法） | [POJ-1006](/reports/POJ1006-Biorhythms) |
@@ -132,7 +132,7 @@
 
 | 3.3. 数据结构 | - |
 | :----: |:----:|
-| 线段树 | [POJ-2528](/reports/POJ2528-Mayor's%20posters)  POJ-2828  POJ-2777  POJ-2886  POJ-2750 |
+| 线段树 | [POJ-2528](/reports/POJ2528-Mayors%20posters)  POJ-2828  POJ-2777  POJ-2886  POJ-2750 |
 | 静态二叉检索树 | POJ-2482  POJ-2352 |
 | 树状树组 | POJ-1195  POJ-3321 |
 | RMQ | POJ-3264  POJ-3368 |
