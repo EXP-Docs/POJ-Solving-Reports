@@ -52,7 +52,7 @@
 | 2.3. 数据结构 | - |
 | :----: |:----:|
 | 串 | [POJ-1016](/reports/POJ1016-Numbers%20That%20Count)  [POJ-1035](/reports/POJ1035-Spell%20checker)  [POJ-3080](/reports/POJ3080-Blue%20Jeans)  [POJ-1936](/reports/POJ1936-All%20in%20All) |
-| 排序（快排、归并排、堆排） | [POJ-1007](/reports/POJ1007-DNA%20Sorting)  [POJ-2388](/POJ2388-Whos%20in%20the%20Middle)  [POJ-1804](/reports/POJ1804-Brainman)  [POJ-2299](/reports/POJ2299-Ultra-QuickSort) |
+| 排序（快排、归并排、堆排） | [POJ-1007](/reports/POJ1007-DNA%20Sorting)  [POJ-2388](/reports/POJ2388-Whos%20in%20the%20Middle)  [POJ-1804](/reports/POJ1804-Brainman)  [POJ-2299](/reports/POJ2299-Ultra-QuickSort) |
 | 并查集 | - |
 | 高效查找法<br/>（数的Hash、串的Hash、二分查找） | [POJ-1002](/reports/POJ1002-487-3279)  [POJ-3349](/reports/POJ3349-Snowflake%20Snow%20Snowflakes)  [POJ-3274](/reports/POJ3274-Gold%20Balanced%20Lineup)   [POJ-1840](/reports/POJ1840-Eqs)  [POJ-2002](/reports/POJ2002-Squares)  [POJ-3432](/reports/POJ3432-Count%20Squares)  [POJ-2503](/reports/POJ2503-Babelfish) |
 | 哈夫曼树、优先队列 | [POJ-3253](/reports/POJ3253-Fence%20Repair) |
