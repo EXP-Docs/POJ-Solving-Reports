@@ -44,8 +44,8 @@
 ## 测试数据
 
 - 来源（已失效）：[Tehran 2002, First Iran Nationwide Internet Programming Contest（问题E）](http://sina.sharif.edu/~acmicpc/acmicpc02/inipc/inipcprobs.html)
-- 输入：[input](/testdata/input.dat)
-- 输出：[output](/testdata/output.dat)
+- 输入：[input](/reports/POJ1020-Anniversary%20Cake/testdata/input.dat)
+- 输出：[output](/reports/POJ1020-Anniversary%20Cake/testdata/output.dat)
 
 
 
