@@ -76,7 +76,7 @@
 | 背包问题 | - | [POJ-1837](/reports/POJ1837-Balance)  [POJ-1276](/reports/POJ1276-Cash%20Machine)  [POJ-1014](/reports/POJ1014-Dividing) |
 | DP（动态规划）<br/>可参考《刘汝佳：算法法艺术与信息学竞赛》<br/>（黑书一）page 149 | `E[j] = opt{D+w(i,j)}`  | [POJ-1018](/reports/POJ1018-Communication%20System)  [POJ-3267](/reports/POJ3267-The%20Cow%20Lexicon)  [POJ-1260](/reports/POJ1260-Pearls)  |
 | - | 最长公共子序列<br/>`E[i,j] = opt{D[i-1,j]+xi,D[i,j-1]+yj,D[i-1][j-1]+zij}` | [POJ-1015](/reports/POJ1015-Jury%20Compromise)  [POJ-3176](/reports/POJ3176-Cow%20Bowling)  [POJ-1163](/reports/POJ1163-The%20Triangle)  [POJ-1080](/reports/POJ1080-Human%20Gene%20Functions)  [POJ-1159](/reports/POJ1159-Palindrome)  [POJ-2533](/reports/POJ2533-Longest%20Ordered%20Subsequence)  [POJ-1836](/reports/POJ1836-Alignment) |
-| - | 最优二分检索树问题<br/>`C[i,j] = w[i,j]+opt{C[i,k-1]+C[k,j]}` |  |
+| - | 最优二分检索树问题<br/>`C[i,j] = w[i,j]+opt{C[i,k-1]+C[k,j]}` | - |
 
 
 
@@ -88,7 +88,7 @@
 | - | 递推关系 | [POJ-1012](/reports/POJ1012-Joseph)  [POJ-1019](/reports/POJ1019-Number%20Sequence) |
 | - | 逻辑推理 | [POJ-1013](/reports/POJ1013-Counterfeit%20Dollar)  [POJ-1017](/reports/POJ1017-Packets) |
 | 数论 | 素数与整除问题  | [POJ-2739](/reports/POJ2739-Sum%20of%20Consecutive%20Prime%20Numbers)  [POJ-2262](/reports/POJ2262-Goldbachs%20Conjecture)  [POJ-3006](/reports/POJ3006-Dirichlets%20Theorem) |
-| - | 进制位 |  |
+| - | 进制位 | - |
 | - | 同余模运算 | [POJ-2305](/reports/POJ2305-Basic%20remains)  [POJ-2635](/reports/POJ2635-The%20Embarrassed%20Cryptographer)  [POJ-3292](/reports/POJ3292-Semi-prime%20H-numbers)  [POJ-1845](/reports/POJ1845-Sumdiv)  [POJ-2115](/reports/POJ2115-C%20Looooops) |
 | - | 中国余数定理<br/>（扩展欧几里德、辗转相除法） | [POJ-1006](/reports/POJ1006-Biorhythms) |
 | 计算方法 | 二分法求解单调函数 | [POJ-3273](/reports/POJ3273-Monthly%20Expense)  [POJ-3258](/reports/POJ3258-River%20Hopscotch)  [POJ-1905](/reports/POJ1905-Expanding%20Rods)  [POJ-3122](/reports/POJ3122-Pie) |
@@ -144,7 +144,7 @@
 
 | 3.4. 搜索 | - |
 | :----: |:----:|
-| 最优化剪枝和可行性剪枝 |  |
+| 最优化剪枝和可行性剪枝 | - |
 | 搜索的技巧和优化 | [POJ-1020](/reports/POJ1020-Anniversary%20Cake)  [POJ-3411](/reports/POJ3411-Paid%20Roads)  [POJ-1724](/reports/POJ1724-ROADS) |
 | 记忆化搜索 | [POJ-3373](/reports/POJ3373-Changing%20Digits)  [POJ-1691](/reports/POJ1691-Painting%20A%20Board) |
 | 搜索与状态压缩 | [POJ-1184](/reports/POJ1184-Smart%20typist) |
@@ -163,27 +163,27 @@
 
 | 3.6. 数学 | - | - |
 | :----: |:----:|:----:|
-| 组合数学 | 容斥原理 |  |
-| - | 抽屉原理 |  |
+| 组合数学 | 容斥原理 | - |
+| - | 抽屉原理 | - |
 | - | 置换群与Polya定理 | POJ-1286  POJ-2409  POJ-3270  POJ-1026 |
-| - | 递推关系和母函数 |  |
+| - | 递推关系和母函数 | - |
 | 数论 | 高斯消元法  | POJ-2947  POJ-1487  POJ-2065  POJ-1166  POJ-1222 |
 | - | 概率问题 | POJ-3071  POJ-3440 |
 | - | GCD（最大公约数）<br/>LCM（最小公倍数） | POJ-3101 |
-| - | 中国余数定理<br/>（扩展欧几里德、辗转相除法） |  |
+| - | 中国余数定理<br/>（扩展欧几里德、辗转相除法） | - |
 | 计算方法 | 0/1分数规划 | POJ-2976 |
-| - | 三分法求解单峰/单谷的极值 |  |
+| - | 三分法求解单峰/单谷的极值 | - |
 | - | 矩阵法 | POJ-3150  POJ-3422  POJ-3070 |
 | - | 迭代逼近 | POJ-3301 |
-| 随机化算法 |  | POJ-3318  POJ-2454 |
-| 杂题 |  | POJ-1870  POJ-3296  POJ-3286  POJ-1095 |
+| 随机化算法 | - | POJ-3318  POJ-2454 |
+| 杂题 | - | POJ-1870  POJ-3296  POJ-3286  POJ-1095 |
 
 
 
 
 | 3.7. 计算几何学 | - |
 | :----: |:----:|
-| 坐标离散化 |  |
+| 坐标离散化 | - |
 | 扫描线算法<br/>（如求矩形的面积和周长，常和线段树或堆一起使用） | POJ-1765  POJ-1177  POJ-1151  POJ-3277  POJ-2280  POJ-3004 |
 | 多边形的内核（半平面交） | POJ-3130  POJ-3335 |
 | 几何工具的综合应用 | POJ-1819  POJ-1066  POJ-2043  POJ-3227  POJ-2165  POJ-3429 |
@@ -207,8 +207,8 @@
 | 最短路、最小生成树、二分图、最大流问题的相关理论<br/>（主要是模型建立和求解） | POJ-3155  POJ-2112  POJ-1966  POJ-3281  POJ-1087  POJ-2289  POJ-3216  POJ-2446 |
 | 最优比率生成树 | POJ-2728 |
 | 最小树形图 | POJ-3164 |
-| 次小生成树 |  |
-| 无向图、有向图的最小环 |  |
+| 次小生成树 | - |
+| 无向图、有向图的最小环 | - |
 
 
 
@@ -218,7 +218,7 @@
 | trie图的建立和应用 | POJ-2778 |
 | LCA和RMQ问题：<br/>LCA（最近公共祖先问题）<br/>离线算法（并查集+dfs）<br/>在线算法（RMQ+dfs） | POJ-1330 |
 | 双端队列和应用<br/>（维护一个单调的队列，常在动态规划中起到优化状态转移的目的） | POJ-2823 |
-| 左偏树（可合并堆） |  |
+| 左偏树（可合并堆） | - |
 | 后缀树 | POJ-3415  POJ-3294 |
 
 
