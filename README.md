@@ -9,7 +9,7 @@
 - [北大 POJ 题库（官网在线）](http://poj.org/)
 - [北大 POJ 题库（离线版）](/doc/POJ%E7%A6%BB%E7%BA%BF%E7%89%88%E9%A2%98%E7%9B%AE.chm)
 - [POJ封面书《程序设计导引及在线实践》](/doc/程序设计导引及在线实践.pdf)
-- [ACM 资料](https://lyy289065406.github.io/exp-blog/gitbook/book/markdown/technical/algorithm/acm/)
+- [ACM 资料](https://lyy289065406.github.io/articles/tags/ACM/)
 
 ------
 
