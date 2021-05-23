@@ -64,7 +64,7 @@
 
 | 2.4. 搜索 | - |
 | :----: |:----:|
-| 深度优先搜索DFS | [POJ-2488](/reports/POJ2488-A%20Knights%20Journey)  [POJ-3083](/reports/POJ3083-Children%20of%20the%20Candy%20Corn)  [POJ-3009](/reports/POJ3009%20–%20Curling%202.0)  [POJ-1321](/reports/POJ1321-Chess%20Problem) |
+| 深度优先搜索DFS | [POJ-2488](/reports/POJ2488-A%20Knights%20Journey)  [POJ-3083](/reports/POJ3083-Children%20of%20the%20Candy%20Corn)  [POJ-3009](/reports/POJ3009-Curling%202.0)  [POJ-1321](/reports/POJ1321-Chess%20Problem) |
 | 广度优先搜索BFS | [POJ-3278](/reports/POJ3278-Catch%20That%20Cow)  [POJ-1426](/reports/POJ1426-Find%20The%20Multiple)  [POJ-3126](/reports/POJ3126-Prime%20Path)  [POJ-3414](/reports/POJ3414-Pots)  [POJ-2251](/reports/POJ2251-Dungeon%20Master) |
 | 简单搜索技巧和剪枝 | [POJ-1010](/reports/POJ1010-STAMPS)  [POJ-2362](/reports/POJ2362-Square)  [POJ-1011](/reports/POJ1011-Sticks)  [POJ-1416](/reports/POJ1416-Shredding%20Company)  [POJ-2676](/reports/POJ2676-Sudoku)  [POJ-1129](/reports/POJ1129-Channel%20Allocation) |
 
