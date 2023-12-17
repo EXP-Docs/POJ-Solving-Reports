@@ -1,6 +1,6 @@
 ## [[POJ](http://poj.org/)] [[INDEX](https://github.com/lyy289065406/POJ-Solving-Reports)] [1328] [[Radar Installation](http://poj.org/problem?id=1328)]
 
-> [Time: 1000MS] [Memory: 10000K] [难度: 初级] [分类: 心]
+> [Time: 1000MS] [Memory: 10000K] [难度: 初级] [分类: 贪心]
 
 ------
 
