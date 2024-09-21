@@ -60,7 +60,7 @@ int main(int i,int j)
 }
 ```
 
-### 解题方法二：LIS - O(n^2)算法
+### 解题方法二：LIS - O(nlogn)算法
 
 ```c
 //Memory Time 
